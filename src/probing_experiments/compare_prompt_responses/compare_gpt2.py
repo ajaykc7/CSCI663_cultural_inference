@@ -1,9 +1,20 @@
+import sys
+import os
+
+current_dir = os.path.dirname(os.path.abspath(__file__))
+parent_dir = os.path.dirname(current_dir)
+grand_parent_dir = os.path.dirname(parent_dir)
+great_grand_parent_dir = os.path.dirname(grand_parent_dir)
+
+sys.path.append(parent_dir)
+sys.path.append(grand_parent_dir)
+sys.path.append(great_grand_parent_dir)
+
 from probing_experiments.prompts import *
-from probing_experiments.wvs_prompts import \
-    COUNTRIES_WVS_W7,wvs_gpt2_prompts_ratings_multiple_tokens
-from src.probing_experiments.prompts import get_pew_moral_df,get_wvs_df, get_user_study_scores
+from probing_experiments.wvs_prompts import COUNTRIES_WVS_W7,wvs_gpt2_prompts_ratings_multiple_tokens
+from probing_experiments.prompts import get_pew_moral_df,get_wvs_df, get_user_study_scores
 from model_utilities import get_lines_log_prob_last_token,get_lines_log_prob_matrix
-from src.my_models import *
+from my_models import *
 import pickle
 import pandas as pd
 import numpy as np
