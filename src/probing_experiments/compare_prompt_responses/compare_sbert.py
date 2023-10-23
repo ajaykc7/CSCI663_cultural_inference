@@ -23,7 +23,6 @@ def compare_mcm_pew(rating_path: str = '', saving_path: str = '', save_prompts =
     list_rows = []
     if len(rating_path) > 0:
         pew_mcms = pickle.load(open(rating_path, 'rb'))
-        print(pew_mcms)
     else:
         pew_mcms = pickle.load(open('data/PEW_2013/pew_mcm_all.p', 'rb'))
     aggregate_pew_mcm = pew_mcms['universal']
