@@ -1,4 +1,5 @@
 import pandas as pd
+import os
 from src.probing_experiments.prompt_utils import *
 
 
@@ -13,6 +14,8 @@ def get_pew_df():
     df = pd.read_spss('data/PEW_2013/Pew Research Global Attitudes Project Spring 2013 Dataset for web.sav')
     return df
 def get_pew_moral_df():
+    if not os.path.isfile("data/PEW_2013/PEW_2013_moral_small.csv"):
+        store_small_pew()
     df = pd.read_csv('data/PEW_2013/PEW_2013_moral_small.csv')
     return df
 
