@@ -1,3 +1,15 @@
+import sys
+import os
+
+current_dir = os.path.dirname(os.path.abspath(__file__))
+parent_dir = os.path.dirname(current_dir)
+grand_parent_dir = os.path.dirname(parent_dir)
+great_grand_parent_dir = os.path.dirname(grand_parent_dir)
+
+sys.path.append(parent_dir)
+sys.path.append(grand_parent_dir)
+sys.path.append(great_grand_parent_dir)
+
 from probing_experiments.prompts import *
 from probing_experiments.wvs_prompts import \
     COUNTRIES_WVS_W7
@@ -11,6 +23,7 @@ def compare_mcm_pew(rating_path: str = '', saving_path: str = '', save_prompts =
     list_rows = []
     if len(rating_path) > 0:
         pew_mcms = pickle.load(open(rating_path, 'rb'))
+        print(pew_mcms)
     else:
         pew_mcms = pickle.load(open('data/PEW_2013/pew_mcm_all.p', 'rb'))
     aggregate_pew_mcm = pew_mcms['universal']
@@ -88,3 +101,5 @@ def compare_mcm():
     compare_mcm_pew('data/PEW_2013/pew_mcm_all.p')
     compare_wvs_mcm('data/WVS/wvs_w7_mcm_all.p')
 
+if __name__ =='__main__':
+    compare_mcm()
