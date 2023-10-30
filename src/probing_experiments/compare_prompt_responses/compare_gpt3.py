@@ -1,3 +1,16 @@
+
+import sys
+import os
+
+current_dir = os.path.dirname(os.path.abspath(__file__))
+parent_dir = os.path.dirname(current_dir)
+grand_parent_dir = os.path.dirname(parent_dir)
+great_grand_parent_dir = os.path.dirname(grand_parent_dir)
+
+sys.path.append(parent_dir)
+sys.path.append(grand_parent_dir)
+sys.path.append(great_grand_parent_dir)
+
 from probing_experiments.prompts import *
 from probing_experiments.wvs_prompts import \
     COUNTRIES_WVS_W7
@@ -369,7 +382,8 @@ def compare_gpt3_prompts_mort_user_study_token_pairs(user_study = 'globalAMT', s
     from src.probing_experiments.compare_prompt_responses.compare_gpt2 import\
         gpt2_mort_prompts_multiple_tokens as gpt3_mort_prompts_multiple_tokens
 
-    prompts = gpt3_mort_prompts_multiple_tokens(include_atoms= True, style = style)
+    #prompts = gpt3_mort_prompts_multiple_tokens(include_atoms= True, style = style)
+    prompts = gpt3_mort_prompts_multiple_tokens(include_atoms= True)
     prompts = get_user_study_scores(prompts, user_study = 'globalAMT')
     new_prompts = compare_paired_moral_non_moral_probs(prompts)
     df = pd.DataFrame(new_prompts)
