@@ -1,3 +1,15 @@
+import sys
+import os
+
+current_dir = os.path.dirname(os.path.abspath(__file__))
+parent_dir = os.path.dirname(current_dir)
+grand_parent_dir = os.path.dirname(parent_dir)
+great_grand_parent_dir = os.path.dirname(grand_parent_dir)
+
+sys.path.append(parent_dir)
+sys.path.append(grand_parent_dir)
+sys.path.append(great_grand_parent_dir)
+
 import numpy as np
 import torch
 from src.fine_tuning.funtuning_split import  RANDOM_SEED, load_dataset
