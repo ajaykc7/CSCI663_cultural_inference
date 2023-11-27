@@ -1,3 +1,15 @@
+import sys
+import os
+
+current_dir = os.path.dirname(os.path.abspath(__file__))
+parent_dir = os.path.dirname(current_dir)
+grand_parent_dir = os.path.dirname(parent_dir)
+great_grand_parent_dir = os.path.dirname(grand_parent_dir)
+
+sys.path.append(parent_dir)
+sys.path.append(grand_parent_dir)
+sys.path.append(great_grand_parent_dir)
+
 from src.probing_experiments.prompts import *
 from src.probing_experiments.wvs_prompts import *
 import pandas as pd
@@ -9,8 +21,8 @@ WVS_RATING_TO_TEXT_MAPPING = {1: 'never justifiable', 2: 'not justifiable',
 
 def get_wvs_prompts_from_people():
 
-    df = pd.read_csv('data/WVS/WVS_Cross-National_Wave_7_csv_v4_0_1.csv')
-    df_moral = df[W7_QUESTIONS + ['StateNme']]
+    df = pd.read_csv('data/WVS/WVS_Cross-National_Wave_7_csv_v5_0.csv')
+    df_moral = df[W7_QUESTIONS + ['B_COUNTRY_ALPHA']]
     prompts = []
     countries = []
     topics = []
@@ -18,7 +30,7 @@ def get_wvs_prompts_from_people():
     ratings_text = []
     prompts_no_judgment = []
     for i, row in df_moral.iterrows():
-        country = row['StateNme']
+        country = row['B_COUNTRY_ALPHA']
         if pd.isna(country):
             continue
         for j, topic in enumerate(W7_QUESTIONS):
