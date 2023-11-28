@@ -20,7 +20,7 @@ def get_tokenizer(model_name = 'bert-base-uncased'):
     tokenizer = AutoTokenizer.from_pretrained(model_name)
     return tokenizer
 
-def gpt2_finetuned_model(model_name, test_type, train_data_name, use_cuda = True,device = None):
+def gpt2_finetuned_model(model_name, test_type, train_data_name, use_cuda = True,device = "cuda:0"):
     model = GPT2LMHeadModel.from_pretrained(f'data/finetuning/outputs/{model_name}_{test_type}/{train_data_name}/')
     if use_cuda and torch.cuda.is_available():
         torch.cuda.empty_cache()

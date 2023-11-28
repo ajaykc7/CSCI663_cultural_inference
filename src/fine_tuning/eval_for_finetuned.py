@@ -1,3 +1,15 @@
+import sys
+import os
+
+current_dir = os.path.dirname(os.path.abspath(__file__))
+parent_dir = os.path.dirname(current_dir)
+grand_parent_dir = os.path.dirname(parent_dir)
+great_grand_parent_dir = os.path.dirname(grand_parent_dir)
+
+sys.path.append(parent_dir)
+sys.path.append(grand_parent_dir)
+sys.path.append(great_grand_parent_dir)
+
 import numpy as np
 import pandas as pd
 import torch.cuda
@@ -56,7 +68,7 @@ def evaluate_model_on_user_study(model_name, train_data_name, strategy, use_cuda
 if __name__ == '__main__':
     use_cuda = False
     if torch.cuda.is_available():
-        torch.cuda.set_device(DEVICE)
+        torch.cuda.set_device("cuda:0")
         torch.cuda.empty_cache()
         use_cuda = True
         DEVICE = "cuda:0"
@@ -70,11 +82,15 @@ if __name__ == '__main__':
     parser.add_argument('--strategy', type = str,
                         choices= ['country_based','topic based','random'],
                         required=True)
-    args = parser.parse_args()
+    #args = parser.parse_args()
 
-    store_gpt2_model_on_pew(args.model,args.train,args.strategy,use_cuda) #Evaluating on PEW
+    """ store_gpt2_model_on_pew(args.model,args.train,args.strategy,use_cuda) #Evaluating on PEW
     store_gpt2_model_on_wvs(args.model,args.train,args.strategy,use_cuda) #Evaluating on WVS
-    evaluate_model_on_user_study(args.model, args.train, args.strategy) #Evaluting on globalAMT
+    evaluate_model_on_user_study(args.model, args.train, args.strategy) #Evaluting on globalAMT """
+
+    store_gpt2_model_on_pew('gpt2','wvs','topic_based',use_cuda) #Evaluating on PEW
+    store_gpt2_model_on_wvs('gpt2','wvs','topic_based',use_cuda) #Evaluating on WVS
+    evaluate_model_on_user_study('gpt2','wvs','topic_based')
 
 
 
