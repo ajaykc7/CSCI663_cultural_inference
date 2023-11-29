@@ -5,9 +5,10 @@ from src.probing_experiments.prompt_utils import *
 
 
 def get_wvs_df(wave = 7):
-    wvs_df = pd.read_csv(f'data/WVS/WVS_Cross-National_Wave_{wave}_csv_v5_0.csv')
+    wvs_df = pd.read_csv(f'data/WVS/WVS_Cross-National_Wave_7_csv_v5_0.csv')
     wvs_df_country_names = pd.read_csv('data/WVS/country_names.csv')
-    wvs_df = wvs_df.set_index('B_COUNTRY').join(wvs_df_country_names, how = 'left')
+    wvs_df_country_names = wvs_df_country_names.drop_duplicates(['B_COUNTRY'])[['B_COUNTRY','StateNme']]
+    wvs_df = wvs_df.merge(wvs_df_country_names, on = 'B_COUNTRY', how = 'left')
     return wvs_df
 
 def get_pew_df():
