@@ -1,0 +1,1084 @@
+country,topic,wvs_score,moral log prob,non moral log probs,log prob difference
+Cyprus,claiming government benefits to which you are not entitled,-0.7470328925059342,,,-3.2950165
+Cyprus,avoiding a fare on public transport,-0.5822041553748871,,,-0.91873854
+Cyprus,stealing property,-0.898989898989899,,,-1.5451771
+Cyprus,cheating on taxes,-0.8644713261648745,,,-1.5273387
+Cyprus,someone accepting a bribe in the course of their duties,-0.8801346801346802,,,-1.2830497
+Cyprus,homosexuality,-0.3944444444444445,,,-1.401861
+Cyprus,prostitution,-0.724709784411277,,,-1.2186655
+Cyprus,abortion,-0.551994301994302,,,-0.63135016
+Cyprus,divorce,-0.06657436252451829,,,-0.6433464
+Cyprus,sex before marriage,-0.09383249340052799,,,-1.4694217
+Cyprus,suicide,-0.8317426652527394,,,-0.99522275
+Cyprus,euthanasia,-0.6173104434907011,,,-0.32197133
+Cyprus,for a man to beat his wife,-0.9285473542298618,,,-2.0179188
+Cyprus,parents beating children,-0.8945005611672279,,,-1.9024746
+Cyprus,violence against other people,-0.9056561591772859,,,-1.6776083
+Cyprus,"terrorism as a political, ideological or religious mean",-0.943992773261066,,,-1.9299434
+Cyprus,having casual sex,-0.5917642882499113,,,-1.2614663
+Cyprus,political violence,-0.9269776876267748,,,-1.1118506
+Cyprus,death penalty,-0.6278858182645285,,,-0.7505754
+Ecuador,claiming government benefits to which you are not entitled,-0.23551031947978515,,,-3.1494374
+Ecuador,avoiding a fare on public transport,-0.33928903778150005,,,-0.8528522
+Ecuador,stealing property,-0.7960171226502885,,,-1.3761737
+Ecuador,cheating on taxes,-0.7032668726013293,,,-1.4530712
+Ecuador,someone accepting a bribe in the course of their duties,-0.7101937657961247,,,-1.1674399
+Ecuador,homosexuality,-0.39897673520610094,,,-1.1828912
+Ecuador,prostitution,-0.451775683138151,,,-0.9723259
+Ecuador,abortion,-0.6555274735561172,,,-0.16524677
+Ecuador,divorce,-0.2515705578996718,,,-0.46388683
+Ecuador,sex before marriage,-0.33447001989201475,,,-1.3761162
+Ecuador,suicide,-0.6826471141191953,,,-0.94409907
+Ecuador,euthanasia,-0.47593805217752827,,,0.038391374
+Ecuador,for a man to beat his wife,-0.806577480490524,,,-1.8859627
+Ecuador,parents beating children,-0.4899116689911669,,,-2.0013633
+Ecuador,violence against other people,-0.7385402138540214,,,-1.6731983
+Ecuador,"terrorism as a political, ideological or religious mean",-0.7601500234411627,,,-1.8779023
+Ecuador,having casual sex,-0.5423167848699764,,,-0.9726734
+Ecuador,political violence,-0.6855275443510737,,,-0.97840273
+Ecuador,death penalty,-0.4098514758413236,,,-0.6745372
+Greece,claiming government benefits to which you are not entitled,-0.8696097606407748,,,-3.2327297
+Greece,avoiding a fare on public transport,-0.6914508493455862,,,-0.99586755
+Greece,stealing property,-0.9709902370990239,,,-1.5624692
+Greece,cheating on taxes,-0.8491198658843252,,,-1.5046581
+Greece,someone accepting a bribe in the course of their duties,-0.9161073825503355,,,-1.3129284
+Greece,homosexuality,-0.1633535004321521,,,-1.7730408
+Greece,prostitution,-0.33750118404849866,,,-1.4332018
+Greece,abortion,-0.2055414192818773,,,-0.7987112
+Greece,divorce,0.30359147025813693,,,-1.0169377
+Greece,sex before marriage,0.42597328786587096,,,-1.6731151
+Greece,suicide,-0.8033314404694303,,,-0.973729
+Greece,euthanasia,-0.5317672712855585,,,-0.66364133
+Greece,for a man to beat his wife,-0.9706674092639005,,,-1.9749931
+Greece,parents beating children,-0.9508439992580227,,,-1.744721
+Greece,violence against other people,-0.9575656058068119,,,-1.4888647
+Greece,"terrorism as a political, ideological or religious mean",-0.9682806231924619,,,-1.5725765
+Greece,having casual sex,-0.034005872880553185,,,-1.4688307
+Greece,political violence,-0.899623352165725,,,-0.9045399
+Greece,death penalty,-0.6814555360965168,,,-0.74567
+Indonesia,claiming government benefits to which you are not entitled,-0.49328027367612665,,,-3.52237
+Indonesia,avoiding a fare on public transport,-0.6138079827400217,,,-1.2011551
+Indonesia,stealing property,-0.8764427756918369,,,-1.7817999
+Indonesia,cheating on taxes,-0.6663534815742772,,,-1.7238737
+Indonesia,someone accepting a bribe in the course of their duties,-0.793038570084666,,,-1.4255077
+Indonesia,homosexuality,-0.8643949688164174,,,-2.0096104
+Indonesia,prostitution,-0.8741599637870399,,,-1.5908347
+Indonesia,abortion,-0.8719420955562516,,,-1.0761532
+Indonesia,divorce,-0.6242804814233386,,,-1.0893357
+Indonesia,sex before marriage,-0.8572521207064386,,,-2.082473
+Indonesia,suicide,-0.8923317683881065,,,-1.1585215
+Indonesia,euthanasia,-0.7354099160308003,,,-0.71217924
+Indonesia,for a man to beat his wife,-0.8514114865804479,,,-2.2581131
+Indonesia,parents beating children,-0.6807511737089202,,,-2.0526035
+Indonesia,violence against other people,-0.8081029386193707,,,-1.7284397
+Indonesia,"terrorism as a political, ideological or religious mean",-0.8387785831845082,,,-1.8758532
+Indonesia,having casual sex,-0.8844305120167189,,,-1.4449806
+Indonesia,political violence,-0.8260991712319145,,,-1.2500341
+Indonesia,death penalty,-0.4706419440932716,,,-0.8046381
+Jordan,claiming government benefits to which you are not entitled,-0.5566854990583804,,,-3.3720603
+Jordan,avoiding a fare on public transport,,,,-1.1601381
+Jordan,stealing property,-0.9164814814814816,,,-1.8109179
+Jordan,cheating on taxes,-0.7543075346931173,,,-1.8331261
+Jordan,someone accepting a bribe in the course of their duties,-0.9015025041736227,,,-1.6280597
+Jordan,homosexuality,-0.9397489539748954,,,-1.6726332
+Jordan,prostitution,,,,-1.5709928
+Jordan,abortion,-0.7969156447417317,,,-0.79393256
+Jordan,divorce,-0.375847024969832,,,-0.9458472
+Jordan,sex before marriage,-0.9436069235064211,,,-1.8206679
+Jordan,suicide,-0.9477777777777779,,,-1.3192152
+Jordan,euthanasia,-0.8888888888888887,,,-0.6992708
+Jordan,for a man to beat his wife,-0.8682579332038117,,,-1.8282055
+Jordan,parents beating children,-0.6559079948061585,,,-2.1362958
+Jordan,violence against other people,-0.9089647515958922,,,-1.730019
+Jordan,"terrorism as a political, ideological or religious mean",-0.9384986993682645,,,-2.060148
+Jordan,having casual sex,,,,-1.3862176
+Jordan,political violence,-0.9324965132496514,,,-1.122117
+Jordan,death penalty,-0.036477283328668716,,,-1.0442319
+Libya,claiming government benefits to which you are not entitled,-0.6391792489353465,,,-3.2037282
+Libya,avoiding a fare on public transport,-0.8653081028626881,,,-1.260999
+Libya,stealing property,-0.9648021308980211,,,-1.4145638
+Libya,cheating on taxes,-0.8903269101716037,,,-1.4840469
+Libya,someone accepting a bribe in the course of their duties,-0.9456918057954328,,,-1.0782837
+Libya,homosexuality,-0.9739614390777179,,,-1.953907
+Libya,prostitution,-0.9703436529405871,,,-1.2009578
+Libya,abortion,-0.8707321886717979,,,-0.96259224
+Libya,divorce,-0.40387071421554177,,,-0.9459165
+Libya,sex before marriage,-0.9741784037558684,,,-1.9361395
+Libya,suicide,-0.9664422983123598,,,-0.5395831
+Libya,euthanasia,-0.9534654441486741,,,-0.5137997
+Libya,for a man to beat his wife,-0.8444638864586371,,,-1.9000803
+Libya,parents beating children,-0.5446680276076601,,,-1.855108
+Libya,violence against other people,-0.9318933644677952,,,-1.5342624
+Libya,"terrorism as a political, ideological or religious mean",-0.9722713864306783,,,-1.6135616
+Libya,having casual sex,-0.9856440511307768,,,-1.384866
+Libya,political violence,-0.9570146899339447,,,-0.99601567
+Libya,death penalty,-0.21288014311270126,,,-0.5445426
+Maldives,claiming government benefits to which you are not entitled,-0.8097074895531984,,,-3.2762313
+Maldives,avoiding a fare on public transport,-0.6836701957009946,,,-0.9898216
+Maldives,stealing property,-0.9344508918977004,,,-1.8594269
+Maldives,cheating on taxes,-0.9124839124839125,,,-1.810437
+Maldives,someone accepting a bribe in the course of their duties,-0.9358357394931024,,,-1.4028648
+Maldives,homosexuality,-0.9419824448726183,,,-1.6940981
+Maldives,prostitution,-0.9496410586092361,,,-1.3222804
+Maldives,abortion,-0.659916425586628,,,-0.76073843
+Maldives,divorce,0.04976404976404976,,,-0.8594738
+Maldives,sex before marriage,-0.8560703560703561,,,-1.8881891
+Maldives,suicide,-0.9084589883434927,,,-0.9667009
+Maldives,euthanasia,-0.776702161987738,,,-0.19032446
+Maldives,for a man to beat his wife,-0.963784420872174,,,-2.1104686
+Maldives,parents beating children,-0.916720188396489,,,-2.291082
+Maldives,violence against other people,-0.9466409514625523,,,-1.6931336
+Maldives,"terrorism as a political, ideological or religious mean",-0.951998285653059,,,-2.1183589
+Maldives,having casual sex,-0.9272104474416614,,,-1.3707583
+Maldives,political violence,-0.9521202361782071,,,-0.96834755
+Maldives,death penalty,0.3744776599164256,,,-0.8549945
+New Zealand,claiming government benefits to which you are not entitled,-0.7808338790657062,,,-3.0677116
+New Zealand,avoiding a fare on public transport,-0.744888023369036,,,-0.6252864
+New Zealand,stealing property,-0.9143473570658037,,,-1.6900495
+New Zealand,cheating on taxes,-0.8238218763510593,,,-1.5350281
+New Zealand,someone accepting a bribe in the course of their duties,-0.9236178729849617,,,-1.2863219
+New Zealand,homosexuality,0.40620490620490624,,,-0.7884634
+New Zealand,prostitution,-0.03414290742696235,,,-0.8433525
+New Zealand,abortion,0.29105911608454843,,,0.0095036505
+New Zealand,divorce,0.5089605734767025,,,0.0155004505
+New Zealand,sex before marriage,0.5333106344342299,,,-0.9511548
+New Zealand,suicide,-0.48773448773448774,,,-0.93859226
+New Zealand,euthanasia,0.3568573712458604,,,-0.13259022
+New Zealand,for a man to beat his wife,-0.9697068051498432,,,-2.131475
+New Zealand,parents beating children,-0.8950677506775069,,,-2.2601101
+New Zealand,violence against other people,-0.8555446942543717,,,-1.6317612
+New Zealand,"terrorism as a political, ideological or religious mean",-0.9576511678672779,,,-1.8565239
+New Zealand,having casual sex,0.049816345270890725,,,-1.1187475
+New Zealand,political violence,-0.8237855946398661,,,-0.9934187
+New Zealand,death penalty,-0.27326710060523013,,,-0.93164855
+Nigeria,claiming government benefits to which you are not entitled,-0.7770574464253557,,,-3.6211262
+Nigeria,avoiding a fare on public transport,-0.7741731999639542,,,-1.2099974
+Nigeria,stealing property,-0.8490328385065228,,,-1.8446652
+Nigeria,cheating on taxes,-0.8245993156852152,,,-1.8028749
+Nigeria,someone accepting a bribe in the course of their duties,-0.8412955465587044,,,-1.5403415
+Nigeria,homosexuality,-0.8888888888888887,,,-2.2850928
+Nigeria,prostitution,-0.8588807785888077,,,-1.6936792
+Nigeria,abortion,-0.8425097188319319,,,-1.4235748
+Nigeria,divorce,-0.6720867208672088,,,-1.5129173
+Nigeria,sex before marriage,-0.6242391205596439,,,-2.3045855
+Nigeria,suicide,-0.8772024451636101,,,-1.0989654
+Nigeria,euthanasia,-0.8561097022635484,,,-1.2269875
+Nigeria,for a man to beat his wife,-0.7900134952766532,,,-2.220499
+Nigeria,parents beating children,0.1220783890686803,,,-2.121696
+Nigeria,violence against other people,-0.8101140752717146,,,-1.8016388
+Nigeria,"terrorism as a political, ideological or religious mean",-0.8531103919453433,,,-1.8179207
+Nigeria,having casual sex,-0.6533550665580005,,,-1.8466957
+Nigeria,political violence,-0.8434016540812657,,,-1.4812988
+Nigeria,death penalty,-0.6397085610200364,,,-1.0691001
+Philippines,claiming government benefits to which you are not entitled,-0.04796296296296295,,,-3.4870384
+Philippines,avoiding a fare on public transport,-0.15299786859419887,,,-0.92030525
+Philippines,stealing property,-0.4131625359695535,,,-1.8182911
+Philippines,cheating on taxes,-0.31571137080319045,,,-1.630497
+Philippines,someone accepting a bribe in the course of their duties,-0.2851851851851852,,,-1.5488312
+Philippines,homosexuality,-0.2066666666666667,,,-1.6266787
+Philippines,prostitution,-0.38356037438606244,,,-1.4962195
+Philippines,abortion,-0.5514814814814816,,,-0.91813916
+Philippines,divorce,-0.2877777777777778,,,-0.89458096
+Philippines,sex before marriage,-0.26340196624002965,,,-1.7447723
+Philippines,suicide,-0.5277546103234176,,,-1.1465347
+Philippines,euthanasia,-0.4166666666666667,,,-0.72200286
+Philippines,for a man to beat his wife,-0.45825224724307295,,,-2.1899092
+Philippines,parents beating children,-0.34129629629629626,,,-2.26816
+Philippines,violence against other people,-0.3935185185185185,,,-1.8587345
+Philippines,"terrorism as a political, ideological or religious mean",-0.2940413307385784,,,-2.2907066
+Philippines,having casual sex,-0.36208495640882954,,,-1.2921804
+Philippines,political violence,-0.3346296296296296,,,-1.3083738
+Philippines,death penalty,-0.3055323881011955,,,-0.9582523
+Thailand,claiming government benefits to which you are not entitled,-0.729697242881827,,,-3.6263871
+Thailand,avoiding a fare on public transport,-0.7297094938604372,,,-1.2103354
+Thailand,stealing property,-0.8148646627785253,,,-1.9055424
+Thailand,cheating on taxes,-0.8337071930611634,,,-1.7714214
+Thailand,someone accepting a bribe in the course of their duties,-0.8295199641094662,,,-1.3297714
+Thailand,homosexuality,-0.2870931537598205,,,-2.0171437
+Thailand,prostitution,-0.6677920324105334,,,-1.4790614
+Thailand,abortion,-0.6900269541778976,,,-1.0363194
+Thailand,divorce,-0.20344182566404787,,,-1.0590588
+Thailand,sex before marriage,-0.22702702702702704,,,-2.0777898
+Thailand,suicide,-0.6691358024691357,,,-1.3233764
+Thailand,euthanasia,-0.6094230624953109,,,-0.80305946
+Thailand,for a man to beat his wife,-0.7782258064516129,,,-2.2762437
+Thailand,parents beating children,-0.7067921990585071,,,-2.184237
+Thailand,violence against other people,-0.800941492938803,,,-1.7942517
+Thailand,"terrorism as a political, ideological or religious mean",-0.8100792582623,,,-2.1321907
+Thailand,having casual sex,-0.6744534291704103,,,-1.2881008
+Thailand,political violence,-0.7135171486213854,,,-1.277191
+Thailand,death penalty,-0.22222222222222218,,,-1.0161388
+Tunisia,claiming government benefits to which you are not entitled,-0.6081920118617365,,,-3.2076764
+Tunisia,avoiding a fare on public transport,-0.7509928881499954,,,-1.0036571
+Tunisia,stealing property,-0.8821464856377574,,,-1.6824604
+Tunisia,cheating on taxes,-0.7953410981697171,,,-1.5415844
+Tunisia,someone accepting a bribe in the course of their duties,-0.8359656414519256,,,-1.266126
+Tunisia,homosexuality,-0.9084422203688258,,,-1.3818976
+Tunisia,prostitution,-0.8507435115913918,,,-1.3212402
+Tunisia,abortion,-0.6293829216393746,,,-0.6372538
+Tunisia,divorce,-0.302141011443337,,,-0.8351551
+Tunisia,sex before marriage,-0.880655009714127,,,-1.675182
+Tunisia,suicide,-0.9032853451458104,,,-0.792802
+Tunisia,euthanasia,-0.81145341844759,,,-0.43857354
+Tunisia,for a man to beat his wife,-0.7919896640826872,,,-2.0211244
+Tunisia,parents beating children,-0.5544481358434846,,,-1.8929913
+Tunisia,violence against other people,-0.8917473490087598,,,-1.6838341
+Tunisia,"terrorism as a political, ideological or religious mean",-0.9225365132187096,,,-1.857898
+Tunisia,having casual sex,-0.9177980973492196,,,-1.4338281
+Tunisia,political violence,-0.9222869830696641,,,-1.2650955
+Tunisia,death penalty,-0.476613052320207,,,-0.7879261
+China,claiming government benefits to which you are not entitled,-0.48963844797178124,,,-3.5841498
+China,avoiding a fare on public transport,-0.8634679578885587,,,-1.2062299
+China,stealing property,-0.9360258244378415,,,-1.7520027
+China,cheating on taxes,-0.8891461756165692,,,-1.6859655
+China,someone accepting a bribe in the course of their duties,-0.8665930831493746,,,-1.2832365
+China,homosexuality,-0.707107438016529,,,-1.9789118
+China,prostitution,-0.8941763971506206,,,-1.3919071
+China,abortion,-0.6806153619668028,,,-1.1670933
+China,divorce,-0.38881530537159675,,,-1.0772359
+China,sex before marriage,-0.39848903629998156,,,-1.9073025
+China,suicide,-0.7906463710566952,,,-1.18527
+China,euthanasia,-0.33281790737059125,,,-0.9520901
+China,for a man to beat his wife,-0.8769434336751571,,,-2.164703
+China,parents beating children,-0.480083857442348,,,-2.107145
+China,violence against other people,-0.8590337524818001,,,-1.5525373
+China,"terrorism as a political, ideological or religious mean",-0.9278145695364238,,,-1.8402927
+China,having casual sex,-0.8863887050518422,,,-1.2924192
+China,political violence,-0.887893864013267,,,-1.1174443
+China,death penalty,0.004006321902451574,,,-0.85840636
+Singapore,claiming government benefits to which you are not entitled,-0.6573333333333332,,,-3.486173
+Singapore,avoiding a fare on public transport,-0.8177977877827803,,,-0.565484
+Singapore,stealing property,-0.9221833138791619,,,-1.8487556
+Singapore,cheating on taxes,-0.8816594372149928,,,-1.6328576
+Singapore,someone accepting a bribe in the course of their duties,-0.9091313535757981,,,-1.4903905
+Singapore,homosexuality,-0.4560697518443998,,,-1.2315038
+Singapore,prostitution,-0.6052235057759919,,,-1.3619962
+Singapore,abortion,-0.49206349206349204,,,-0.36512575
+Singapore,divorce,-0.2877721943048576,,,-0.60995847
+Singapore,sex before marriage,-0.3253928311804507,,,-1.5405437
+Singapore,suicide,-0.6750934761984486,,,-1.3271735
+Singapore,euthanasia,-0.2913492466565092,,,-0.40654212
+Singapore,for a man to beat his wife,-0.9286269286269286,,,-2.3075655
+Singapore,parents beating children,-0.4753333333333334,,,-2.329492
+Singapore,violence against other people,-0.8701947079380928,,,-1.8036553
+Singapore,"terrorism as a political, ideological or religious mean",-0.932367149758454,,,-2.1375282
+Singapore,having casual sex,-0.5850659512631343,,,-0.6999611
+Singapore,political violence,-0.8777166360958257,,,-1.2779653
+Singapore,death penalty,-0.16018332215515316,,,-0.9867016
+Vietnam,claiming government benefits to which you are not entitled,-0.21685185185185182,,,-3.4454613
+Vietnam,avoiding a fare on public transport,-0.46129629629629626,,,-1.3299954
+Vietnam,stealing property,-0.6677777777777778,,,-1.9705187
+Vietnam,cheating on taxes,-0.5927777777777777,,,-1.7721255
+Vietnam,someone accepting a bribe in the course of their duties,-0.5783333333333334,,,-1.3093677
+Vietnam,homosexuality,0.03166666666666667,,,-1.835524
+Vietnam,prostitution,-0.3451851851851852,,,-1.576965
+Vietnam,abortion,-0.2961111111111111,,,-0.87863255
+Vietnam,divorce,-0.05925925925925925,,,-0.9869496
+Vietnam,sex before marriage,0.005925925925925928,,,-2.0056787
+Vietnam,suicide,-0.2290740740740741,,,-1.2352151
+Vietnam,euthanasia,-0.13703703703703704,,,-0.58837235
+Vietnam,for a man to beat his wife,-0.5996296296296296,,,-2.113247
+Vietnam,parents beating children,-0.21296296296296297,,,-2.1683226
+Vietnam,violence against other people,-0.545,,,-1.8045181
+Vietnam,"terrorism as a political, ideological or religious mean",-0.5344444444444444,,,-1.9778761
+Vietnam,having casual sex,-0.13314814814814815,,,-1.3300784
+Vietnam,political violence,-0.48074074074074075,,,-1.0961584
+Vietnam,death penalty,-0.295,,,-1.003143
+Australia,claiming government benefits to which you are not entitled,-0.8268992823558525,,,-3.302491
+Australia,avoiding a fare on public transport,-0.7320663312837711,,,-0.84854203
+Australia,stealing property,-0.9108138238573021,,,-1.6519191
+Australia,cheating on taxes,-0.8114026924747193,,,-1.6340997
+Australia,someone accepting a bribe in the course of their duties,-0.9033277560884923,,,-1.41867
+Australia,homosexuality,0.4194933990272251,,,-1.584767
+Australia,prostitution,-0.07258419892980801,,,-1.3837345
+Australia,abortion,0.23607194334774706,,,-0.58077776
+Australia,divorce,0.49739337981282583,,,-0.7505411
+Australia,sex before marriage,0.5299242424242424,,,-1.5234551
+Australia,suicide,-0.3247911563344011,,,-1.2557122
+Australia,euthanasia,0.264172335600907,,,-0.6483189
+Australia,for a man to beat his wife,-0.9463687150837988,,,-2.2963114
+Australia,parents beating children,-0.8648799553322166,,,-2.1981251
+Australia,violence against other people,-0.8676360924683073,,,-1.7007091
+Australia,"terrorism as a political, ideological or religious mean",-0.9284516489659027,,,-1.8069347
+Australia,having casual sex,0.12861189801699716,,,-1.2746091
+Australia,political violence,-0.8419642300741571,,,-1.1908169
+Australia,death penalty,-0.23262915186639246,,,-1.2307436
+Canada,claiming government benefits to which you are not entitled,-0.703113765831536,,,-3.2449927
+Canada,avoiding a fare on public transport,-0.48188706376859686,,,-0.84441566
+Canada,stealing property,-0.7348597975775677,,,-1.8339169
+Canada,cheating on taxes,-0.6479177036668327,,,-1.7639797
+Canada,someone accepting a bribe in the course of their duties,-0.7240196891764836,,,-1.4330206
+Canada,homosexuality,0.49980642663569497,,,-1.5108323
+Canada,prostitution,-0.11625463193407445,,,-1.5191276
+Canada,abortion,0.2755378574193906,,,-0.3813923
+Canada,divorce,0.39206902273104366,,,-0.60553473
+Canada,sex before marriage,0.5191084563906864,,,-1.3577912
+Canada,suicide,-0.29550356728057076,,,-1.4508702
+Canada,euthanasia,0.1626569326917759,,,-0.534249
+Canada,for a man to beat his wife,-0.8598528842431282,,,-2.2697344
+Canada,parents beating children,-0.754604280736685,,,-2.2863684
+Canada,violence against other people,-0.6838670427520601,,,-1.8888397
+Canada,"terrorism as a political, ideological or religious mean",-0.8121232232730491,,,-1.9681351
+Canada,having casual sex,0.2864332724959902,,,-1.1808599
+Canada,political violence,-0.6578729052596648,,,-1.2341082
+Canada,death penalty,-0.14683922349427575,,,-1.2667863
+Ethiopia,claiming government benefits to which you are not entitled,-0.8603174603174604,,,-3.4785633
+Ethiopia,avoiding a fare on public transport,-0.7734204793028322,,,-0.98807716
+Ethiopia,stealing property,-0.8950416214259862,,,-1.7213564
+Ethiopia,cheating on taxes,-0.8785550983081847,,,-1.5987463
+Ethiopia,someone accepting a bribe in the course of their duties,-0.891430646332607,,,-1.3397593
+Ethiopia,homosexuality,-0.8576092680358084,,,-1.8958337
+Ethiopia,prostitution,-0.8443898443898444,,,-1.3441368
+Ethiopia,abortion,-0.8496145124716554,,,-0.99314594
+Ethiopia,divorce,-0.6464728787467173,,,-1.1734018
+Ethiopia,sex before marriage,-0.7975027144408251,,,-1.9888456
+Ethiopia,suicide,-0.8962238522140722,,,-0.91539586
+Ethiopia,euthanasia,-0.8415553738530026,,,-0.66158086
+Ethiopia,for a man to beat his wife,-0.8408041293126868,,,-2.0371184
+Ethiopia,parents beating children,-0.5713121434392828,,,-1.9429657
+Ethiopia,violence against other people,-0.8887079261672097,,,-1.6147683
+Ethiopia,"terrorism as a political, ideological or religious mean",-0.8882550031694286,,,-1.7697306
+Ethiopia,having casual sex,-0.8840028954035469,,,-1.4835638
+Ethiopia,political violence,-0.8707334785766159,,,-1.1315486
+Ethiopia,death penalty,-0.7486190346826044,,,-0.74048585
+Kenya,claiming government benefits to which you are not entitled,-0.4852571017619562,,,-3.5286784
+Kenya,avoiding a fare on public transport,-0.4259561355809317,,,-1.0654876
+Kenya,stealing property,-0.5738775510204082,,,-1.9005455
+Kenya,cheating on taxes,-0.4344254896651323,,,-1.8660755
+Kenya,someone accepting a bribe in the course of their duties,-0.5131673881673882,,,-1.4885957
+Kenya,homosexuality,-0.5540923639689072,,,-1.8572575
+Kenya,prostitution,-0.5411421273490239,,,-1.4896238
+Kenya,abortion,-0.4094045025417575,,,-0.88900644
+Kenya,divorce,-0.1695425910709395,,,-1.073137
+Kenya,sex before marriage,-0.3075736961451247,,,-1.9966505
+Kenya,suicide,-0.5577539617110929,,,-1.0949299
+Kenya,euthanasia,-0.3192421212986766,,,-0.67526585
+Kenya,for a man to beat his wife,-0.47435200290012686,,,-2.1999512
+Kenya,parents beating children,-0.1771820561422511,,,-2.1384933
+Kenya,violence against other people,-0.5537325676784249,,,-1.7597939
+Kenya,"terrorism as a political, ideological or religious mean",-0.5822222222222222,,,-1.8916266
+Kenya,having casual sex,-0.4385583627637417,,,-1.6010945
+Kenya,political violence,-0.559189606613973,,,-1.3136996
+Kenya,death penalty,-0.41077998528329657,,,-0.99418116
+Netherlands,claiming government benefits to which you are not entitled,-0.8734693877551021,,,-2.9592774
+Netherlands,avoiding a fare on public transport,-0.7565815434917413,,,-0.7244685
+Netherlands,stealing property,-0.9228566616136097,,,-1.5523689
+Netherlands,cheating on taxes,-0.8094593832797791,,,-1.5323786
+Netherlands,someone accepting a bribe in the course of their duties,-0.8972757244490717,,,-1.1824753
+Netherlands,homosexuality,0.7847443617900579,,,-0.7758888
+Netherlands,prostitution,0.1617149758454106,,,-0.93177575
+Netherlands,abortion,0.47508771929824567,,,-0.006673622
+Netherlands,divorce,0.5986335475652829,,,-0.090313055
+Netherlands,sex before marriage,0.7393604784909134,,,-1.0132474
+Netherlands,suicide,-0.025427471764780118,,,-0.80880654
+Netherlands,euthanasia,0.4582319545823196,,,0.080338955
+Netherlands,for a man to beat his wife,-0.9372126920058304,,,-1.8910602
+Netherlands,parents beating children,-0.837843895332549,,,-1.7823989
+Netherlands,violence against other people,-0.8413657990484187,,,-1.5633205
+Netherlands,"terrorism as a political, ideological or religious mean",-0.9571130297387281,,,-1.7460186
+Netherlands,having casual sex,0.3731768054073284,,,-0.9626459
+Netherlands,political violence,-0.877398598184534,,,-0.9581666
+Netherlands,death penalty,-0.46631853785900784,,,-0.75920045
+Zimbabwe,claiming government benefits to which you are not entitled,-0.7297396406307297,,,-3.586017
+Zimbabwe,avoiding a fare on public transport,-0.755610515709444,,,-1.1892923
+Zimbabwe,stealing property,-0.8489840746842395,,,-1.669393
+Zimbabwe,cheating on taxes,-0.8099679926840421,,,-1.6826391
+Zimbabwe,someone accepting a bribe in the course of their duties,-0.7966318872414424,,,-1.5244138
+Zimbabwe,homosexuality,-0.8406674000733407,,,-2.2934594
+Zimbabwe,prostitution,-0.8227709190672154,,,-1.5750123
+Zimbabwe,abortion,-0.8288907208940184,,,-1.4157481
+Zimbabwe,divorce,-0.6189429330402124,,,-1.3700064
+Zimbabwe,sex before marriage,-0.6976380847348589,,,-2.3498387
+Zimbabwe,suicide,-0.8561875973252726,,,-1.0283905
+Zimbabwe,euthanasia,-0.802775480194835,,,-1.064992
+Zimbabwe,for a man to beat his wife,-0.7992299229922992,,,-2.3171606
+Zimbabwe,parents beating children,-0.2604282022886674,,,-2.125335
+Zimbabwe,violence against other people,-0.8358523403865531,,,-1.6704935
+Zimbabwe,"terrorism as a political, ideological or religious mean",-0.827507110744105,,,-1.977966
+Zimbabwe,having casual sex,-0.7856553998351196,,,-1.9931879
+Zimbabwe,political violence,-0.8437098255280073,,,-1.3810121
+Zimbabwe,death penalty,-0.6726403823178017,,,-0.9873007
+Andorra,claiming government benefits to which you are not entitled,-0.7780006686726848,,,-2.984829
+Andorra,avoiding a fare on public transport,-0.8026169882457307,,,-1.0185972
+Andorra,stealing property,-0.8876703223662347,,,-1.5104681
+Andorra,cheating on taxes,-0.8497058497058497,,,-1.3392404
+Andorra,someone accepting a bribe in the course of their duties,-0.9320679320679321,,,-1.4109081
+Andorra,homosexuality,0.5611166722277833,,,-1.2047411
+Andorra,prostitution,-0.17001338688085676,,,-1.0669638
+Andorra,abortion,0.12757201646090535,,,-0.81297266
+Andorra,divorce,0.6097777777777779,,,-0.48013735
+Andorra,sex before marriage,0.5981704596162428,,,-1.3836973
+Andorra,suicide,-0.41377777777777774,,,-1.0253664
+Andorra,euthanasia,0.15251202864495916,,,-0.29666805
+Andorra,for a man to beat his wife,-0.9547119547119548,,,-1.7904255
+Andorra,parents beating children,-0.8464606181455633,,,-2.1345437
+Andorra,violence against other people,-0.9341317365269461,,,-1.5232252
+Andorra,"terrorism as a political, ideological or religious mean",-0.9724444444444444,,,-1.9879997
+Andorra,having casual sex,0.04112337011033099,,,-1.2262605
+Andorra,political violence,-0.924963924963925,,,-0.83910865
+Andorra,death penalty,-0.4674214674214674,,,-0.9193636
+Argentina,claiming government benefits to which you are not entitled,-0.20891618332764697,,,-3.3370476
+Argentina,avoiding a fare on public transport,-0.5445232466509061,,,-1.168526
+Argentina,stealing property,-0.8379111563241777,,,-1.646117
+Argentina,cheating on taxes,-0.746418499717992,,,-1.6410332
+Argentina,someone accepting a bribe in the course of their duties,-0.8053872053872053,,,-1.4283104
+Argentina,homosexuality,0.11631363805276848,,,-1.5668232
+Argentina,prostitution,-0.35122717930117275,,,-1.2806389
+Argentina,abortion,-0.41549953314659194,,,-0.6971821
+Argentina,divorce,0.22902015939990625,,,-0.96220046
+Argentina,sex before marriage,0.27535202934563957,,,-1.788461
+Argentina,suicide,-0.6305020223649774,,,-1.0495777
+Argentina,euthanasia,-0.3649700216864396,,,-0.52154887
+Argentina,for a man to beat his wife,-0.902150897135852,,,-1.9091603
+Argentina,parents beating children,-0.7900614182021217,,,-2.039514
+Argentina,violence against other people,-0.8387096774193549,,,-1.5817206
+Argentina,"terrorism as a political, ideological or religious mean",-0.8651278569812175,,,-1.70812
+Argentina,having casual sex,-0.051199427139276756,,,-1.3364745
+Argentina,political violence,-0.809196193097122,,,-1.0361464
+Argentina,death penalty,-0.4703164703164703,,,-0.77835476
+Bangladesh,claiming government benefits to which you are not entitled,-0.7724074074074073,,,-3.6715744
+Bangladesh,avoiding a fare on public transport,-0.822037037037037,,,-1.2911589
+Bangladesh,stealing property,-0.8768518518518518,,,-1.9107945
+Bangladesh,cheating on taxes,-0.8442592592592593,,,-1.8363178
+Bangladesh,someone accepting a bribe in the course of their duties,-0.865,,,-1.6278559
+Bangladesh,homosexuality,-0.8472222222222223,,,-2.1184
+Bangladesh,prostitution,-0.8666666666666667,,,-1.6504042
+Bangladesh,abortion,-0.7729629629629629,,,-1.5997627
+Bangladesh,divorce,-0.74,,,-1.5701635
+Bangladesh,sex before marriage,-0.8877777777777777,,,-2.428798
+Bangladesh,suicide,-0.8,,,-0.99750346
+Bangladesh,euthanasia,-0.605,,,-1.3103822
+Bangladesh,for a man to beat his wife,-0.7966666666666666,,,-2.3303108
+Bangladesh,parents beating children,-0.7431481481481481,,,-2.2209852
+Bangladesh,violence against other people,-0.8235185185185184,,,-1.7352002
+Bangladesh,"terrorism as a political, ideological or religious mean",-0.8233333333333334,,,-2.2076473
+Bangladesh,having casual sex,-0.8914814814814813,,,-1.9722168
+Bangladesh,political violence,-0.8331481481481481,,,-1.2660372
+Bangladesh,death penalty,-0.6105555555555555,,,-1.0941308
+Armenia,claiming government benefits to which you are not entitled,-0.8081058726220016,,,-3.4630463
+Armenia,avoiding a fare on public transport,-0.9092821216278006,,,-0.9277161
+Armenia,stealing property,-0.9697135559204526,,,-1.8588579
+Armenia,cheating on taxes,-0.8521564327485379,,,-1.6110061
+Armenia,someone accepting a bribe in the course of their duties,-0.9374485596707819,,,-1.5720648
+Armenia,homosexuality,-0.9171250458379172,,,-1.3318293
+Armenia,prostitution,-0.9198753208654199,,,-1.4831586
+Armenia,abortion,-0.6698306346547553,,,-0.66750884
+Armenia,divorce,-0.4196814876185216,,,-1.0017741
+Armenia,sex before marriage,-0.6679608060639673,,,-1.6642071
+Armenia,suicide,-0.9302474207979551,,,-1.0916919
+Armenia,euthanasia,-0.675446049277825,,,-0.5324214
+Armenia,for a man to beat his wife,-0.9453103636860815,,,-2.027583
+Armenia,parents beating children,-0.7974822112753147,,,-2.0223727
+Armenia,violence against other people,-0.9399744572158365,,,-1.7584044
+Armenia,"terrorism as a political, ideological or religious mean",-0.946843853820598,,,-1.8177264
+Armenia,having casual sex,-0.8479338842975207,,,-1.225487
+Armenia,political violence,-0.958943201693823,,,-1.3290306
+Armenia,death penalty,-0.630057803468208,,,-0.7008976
+Bolivia,claiming government benefits to which you are not entitled,-0.11798968214345149,,,-3.2026463
+Bolivia,avoiding a fare on public transport,-0.34174174174174177,,,-1.1370767
+Bolivia,stealing property,-0.876937984496124,,,-1.6594899
+Bolivia,cheating on taxes,-0.7693899782135076,,,-1.6631607
+Bolivia,someone accepting a bribe in the course of their duties,-0.7676071741032371,,,-1.2417372
+Bolivia,homosexuality,-0.48853427895981083,,,-1.6841205
+Bolivia,prostitution,-0.6001357773251866,,,-1.3415425
+Bolivia,abortion,-0.7176380702903296,,,-0.68574345
+Bolivia,divorce,-0.3368519434823245,,,-1.0776354
+Bolivia,sex before marriage,-0.3602865916069601,,,-1.8432478
+Bolivia,suicide,-0.7428934150245625,,,-1.025135
+Bolivia,euthanasia,-0.5116232059834244,,,-0.42686248
+Bolivia,for a man to beat his wife,-0.8335495028102032,,,-2.0178983
+Bolivia,parents beating children,-0.6444877204370876,,,-1.9734077
+Bolivia,violence against other people,-0.7770167427701674,,,-1.5803295
+Bolivia,"terrorism as a political, ideological or religious mean",-0.7948277834992563,,,-1.8164864
+Bolivia,having casual sex,-0.6392156862745098,,,-1.3648926
+Bolivia,political violence,-0.7647254023560643,,,-1.0019063
+Bolivia,death penalty,-0.411288534043025,,,-0.90120494
+Brazil,claiming government benefits to which you are not entitled,-0.6805311462604959,,,-3.362517
+Brazil,avoiding a fare on public transport,-0.4337971128094585,,,-1.1227083
+Brazil,stealing property,-0.8842030939084666,,,-1.7013085
+Brazil,cheating on taxes,-0.5564663023679417,,,-1.6401943
+Brazil,someone accepting a bribe in the course of their duties,-0.8722801596498005,,,-1.4950632
+Brazil,homosexuality,-0.12291574442968865,,,-1.6326628
+Brazil,prostitution,-0.5085097550850975,,,-1.3599803
+Brazil,abortion,-0.6652752931822699,,,-0.77217305
+Brazil,divorce,0.16034676725564156,,,-0.9806163
+Brazil,sex before marriage,0.09229720518064073,,,-1.7115147
+Brazil,suicide,-0.7657335715703791,,,-1.048158
+Brazil,euthanasia,-0.5117991056071552,,,-0.5462408
+Brazil,for a man to beat his wife,-0.9167946748591911,,,-2.0743346
+Brazil,parents beating children,-0.24799177430756375,,,-2.1469393
+Brazil,violence against other people,-0.8352820906012395,,,-1.6353693
+Brazil,"terrorism as a political, ideological or religious mean",-0.8863875724065298,,,-1.6489112
+Brazil,having casual sex,-0.2257383966244726,,,-1.263263
+Brazil,political violence,-0.8457267499504263,,,-1.100962
+Brazil,death penalty,-0.3047107930828861,,,-0.8722011
+Myanmar,claiming government benefits to which you are not entitled,-0.4100639421740339,,,-3.5088413
+Myanmar,avoiding a fare on public transport,-0.5197252390234847,,,-1.3027382
+Myanmar,stealing property,-0.8913909739597814,,,-1.8913548
+Myanmar,cheating on taxes,-0.8618518518518518,,,-1.6936693
+Myanmar,someone accepting a bribe in the course of their duties,-0.8396296296296296,,,-1.4324858
+Myanmar,homosexuality,-0.8396812158280048,,,-2.1758301
+Myanmar,prostitution,-0.8113242516912241,,,-1.5657121
+Myanmar,abortion,-0.9088128996385876,,,-1.4785668
+Myanmar,divorce,-0.6781673158968651,,,-1.360369
+Myanmar,sex before marriage,-0.8601372658133926,,,-2.286931
+Myanmar,suicide,-0.9201186173663237,,,-0.9674034
+Myanmar,euthanasia,-0.7896494156928213,,,-1.0875186
+Myanmar,for a man to beat his wife,-0.8813826336762117,,,-2.0607333
+Myanmar,parents beating children,-0.1024074074074074,,,-2.1998177
+Myanmar,violence against other people,-0.9025113520526362,,,-1.8043816
+Myanmar,"terrorism as a political, ideological or religious mean",-0.8778611806134743,,,-2.0767057
+Myanmar,having casual sex,-0.9141877490501343,,,-1.6939113
+Myanmar,political violence,-0.9036233898619219,,,-1.2996219
+Myanmar,death penalty,-0.3483709273182957,,,-0.77124834
+Chile,claiming government benefits to which you are not entitled,-0.21690921690921694,,,-3.1204257
+Chile,avoiding a fare on public transport,-0.5171862509992007,,,-0.96372336
+Chile,stealing property,-0.7746320638130547,,,-1.470113
+Chile,cheating on taxes,-0.6836999435984208,,,-1.4552429
+Chile,someone accepting a bribe in the course of their duties,-0.7149316152368035,,,-1.3379256
+Chile,homosexuality,-0.04060974157437181,,,-1.1409069
+Chile,prostitution,-0.43067426400759734,,,-1.1023905
+Chile,abortion,-0.36237897648686035,,,-0.34252557
+Chile,divorce,0.1955828779599271,,,-0.6553792
+Chile,sex before marriage,0.22140091517071456,,,-1.5144265
+Chile,suicide,-0.5211169284467714,,,-0.82482636
+Chile,euthanasia,-0.2914447994320199,,,-0.16334069
+Chile,for a man to beat his wife,-0.8116187253243091,,,-1.9945341
+Chile,parents beating children,-0.7737332883945625,,,-1.965897
+Chile,violence against other people,-0.7685653297382317,,,-1.5066279
+Chile,"terrorism as a political, ideological or religious mean",-0.7658084914182475,,,-1.5412952
+Chile,having casual sex,-0.21577060931899644,,,-1.2147043
+Chile,political violence,-0.6974236749517649,,,-0.9461169
+Chile,death penalty,-0.27726284471907536,,,-0.64281565
+Taiwan,claiming government benefits to which you are not entitled,-0.5551921504497138,,,-3.4606786
+Taiwan,avoiding a fare on public transport,-0.7245389297719633,,,-1.0731289
+Taiwan,stealing property,-0.9058780775869901,,,-1.8178638
+Taiwan,cheating on taxes,-0.8337421640774052,,,-1.5826057
+Taiwan,someone accepting a bribe in the course of their duties,-0.8724448078495503,,,-1.5441631
+Taiwan,homosexuality,-0.25520123557735985,,,-1.2338086
+Taiwan,prostitution,-0.5201235577359862,,,-1.2729485
+Taiwan,abortion,-0.4676115199418552,,,-0.35634574
+Taiwan,divorce,-0.1078404651585355,,,-0.6132348
+Taiwan,sex before marriage,-0.07240846733896612,,,-1.6041782
+Taiwan,suicide,-0.5982556554919596,,,-1.2357953
+Taiwan,euthanasia,0.13128009448532751,,,-0.38701
+Taiwan,for a man to beat his wife,-0.8689924593440538,,,-2.1235797
+Taiwan,parents beating children,-0.2782774597983102,,,-2.1523972
+Taiwan,violence against other people,-0.8608158444626147,,,-1.7872473
+Taiwan,"terrorism as a political, ideological or religious mean",-0.9189606613972925,,,-2.0381665
+Taiwan,having casual sex,-0.4810575088579994,,,-0.9884386
+Taiwan,political violence,-0.8544562551103843,,,-1.1465845
+Taiwan,death penalty,0.3251500272776868,,,-0.7976023
+Colombia,claiming government benefits to which you are not entitled,-0.38274853801169595,,,-3.372142
+Colombia,avoiding a fare on public transport,-0.40804093567251465,,,-1.2841238
+Colombia,stealing property,-0.8697368421052631,,,-1.8150969
+Colombia,cheating on taxes,-0.7660818713450291,,,-1.8035548
+Colombia,someone accepting a bribe in the course of their duties,-0.8065789473684211,,,-1.3183215
+Colombia,homosexuality,-0.3195906432748538,,,-1.7881444
+Colombia,prostitution,-0.5347953216374269,,,-1.4926322
+Colombia,abortion,-0.6992690058479533,,,-0.95603716
+Colombia,divorce,-0.17660818713450294,,,-1.0772973
+Colombia,sex before marriage,-0.1,,,-1.8625221
+Colombia,suicide,-0.7504385964912281,,,-1.0569814
+Colombia,euthanasia,-0.37573099415204675,,,-0.67532605
+Colombia,for a man to beat his wife,-0.8771929824561403,,,-2.0294976
+Colombia,parents beating children,-0.423391812865497,,,-2.0420742
+Colombia,violence against other people,-0.8258771929824562,,,-1.7336464
+Colombia,"terrorism as a political, ideological or religious mean",-0.8345029239766081,,,-1.7797515
+Colombia,having casual sex,-0.4067251461988304,,,-1.3530614
+Colombia,political violence,-0.8049707602339182,,,-1.2744627
+Colombia,death penalty,-0.3416666666666667,,,-0.8995059
+Germany,claiming government benefits to which you are not entitled,-0.880386983289358,,,-3.1845937
+Germany,avoiding a fare on public transport,-0.8156648451730419,,,-0.8248213
+Germany,stealing property,-0.9639325189063409,,,-1.6257797
+Germany,cheating on taxes,-0.8850877192982457,,,-1.6314535
+Germany,someone accepting a bribe in the course of their duties,-0.9276757072032663,,,-1.258649
+Germany,homosexuality,0.5235531628532974,,,-1.3008678
+Germany,prostitution,-0.1178360606739894,,,-1.283289
+Germany,abortion,-0.008708708708708709,,,-0.23141976
+Germany,divorce,0.42174909440378505,,,-0.57739604
+Germany,sex before marriage,0.6717037037037037,,,-1.2401763
+Germany,suicide,-0.2951412951412951,,,-1.1941829
+Germany,euthanasia,0.3619686800894854,,,-0.28366694
+Germany,for a man to beat his wife,-0.9762788328603653,,,-2.1995533
+Germany,parents beating children,-0.8869908015768725,,,-1.9327095
+Germany,violence against other people,-0.928503684248924,,,-1.7563957
+Germany,"terrorism as a political, ideological or religious mean",-0.9753734061930782,,,-1.8694563
+Germany,having casual sex,-0.20568018732532667,,,-1.1340027
+Germany,political violence,-0.9418511213383007,,,-1.2073094
+Germany,death penalty,-0.6609347442680776,,,-0.86291236
+Iran,claiming government benefits to which you are not entitled,-0.42258528099236065,,,-3.2946923
+Iran,avoiding a fare on public transport,-0.6190902311707681,,,-1.2122192
+Iran,stealing property,-0.8978015448603686,,,-1.5551087
+Iran,cheating on taxes,-0.7039026938288188,,,-1.6293844
+Iran,someone accepting a bribe in the course of their duties,-0.8896306186025811,,,-1.1119723
+Iran,homosexuality,-0.8662192393736017,,,-2.0100086
+Iran,prostitution,,,,-1.3341858
+Iran,abortion,-0.6156477762903466,,,-1.0665114
+Iran,divorce,-0.4104855525767054,,,-1.1074135
+Iran,sex before marriage,-0.723410576351753,,,-1.9188198
+Iran,suicide,-0.8920041536863966,,,-0.8170869
+Iran,euthanasia,-0.5389830508474577,,,-0.6474341
+Iran,for a man to beat his wife,-0.8895560002964941,,,-1.9809263
+Iran,parents beating children,-0.7320872274143303,,,-1.7526188
+Iran,violence against other people,-0.8205299487864618,,,-1.5960057
+Iran,"terrorism as a political, ideological or religious mean",-0.8562091503267975,,,-1.8784668
+Iran,having casual sex,,,,-1.3100631
+Iran,political violence,-0.7835497835497837,,,-1.1154064
+Iran,death penalty,0.3026355196166517,,,-0.5148936
+Japan,claiming government benefits to which you are not entitled,-0.8304183813443072,,,-3.3652318
+Japan,avoiding a fare on public transport,-0.9280455153949129,,,-1.1640685
+Japan,stealing property,-0.9762740183792816,,,-1.8143438
+Japan,cheating on taxes,-0.9428141459744168,,,-1.7450587
+Japan,someone accepting a bribe in the course of their duties,-0.9139622641509434,,,-1.531012
+Japan,homosexuality,0.2689290275497172,,,-1.8480577
+Japan,prostitution,-0.7829020411649158,,,-1.3929821
+Japan,abortion,-0.13991769547325103,,,-0.7517823
+Japan,divorce,0.2895273565664628,,,-0.94504374
+Japan,sex before marriage,0.3051343442404895,,,-1.7960174
+Japan,suicide,-0.6203407880724175,,,-1.4703348
+Japan,euthanasia,0.15189077517290933,,,-0.72357196
+Japan,for a man to beat his wife,-0.9408076247805367,,,-2.1189508
+Japan,parents beating children,-0.9331159602039965,,,-2.1906893
+Japan,violence against other people,-0.9318429205392281,,,-1.7029804
+Japan,"terrorism as a political, ideological or religious mean",-0.9538592027141646,,,-1.8618491
+Japan,having casual sex,-0.6296296296296297,,,-1.1086755
+Japan,political violence,-0.9140671994500301,,,-1.0753682
+Japan,death penalty,0.289254686785551,,,-0.92944014
+Kazakhstan,claiming government benefits to which you are not entitled,-0.46600055509297816,,,-3.444331
+Kazakhstan,avoiding a fare on public transport,-0.27089518668466034,,,-1.1642301
+Kazakhstan,stealing property,-0.7350981451467675,,,-1.4575256
+Kazakhstan,cheating on taxes,-0.5674734140080675,,,-1.5214665
+Kazakhstan,someone accepting a bribe in the course of their duties,-0.7233523189585028,,,-1.2414917
+Kazakhstan,homosexuality,-0.7287382952022396,,,-1.6038888
+Kazakhstan,prostitution,-0.6713886479714753,,,-1.1637601
+Kazakhstan,abortion,-0.44277728743748157,,,-0.84486485
+Kazakhstan,divorce,-0.17516110134739307,,,-0.782868
+Kazakhstan,sex before marriage,-0.2135989691743483,,,-1.7671134
+Kazakhstan,suicide,-0.7163536776212833,,,-0.9576851
+Kazakhstan,euthanasia,-0.38638914396490154,,,-0.34093913
+Kazakhstan,for a man to beat his wife,-0.6931306306306306,,,-1.9518003
+Kazakhstan,parents beating children,-0.6947902259105578,,,-1.9238685
+Kazakhstan,violence against other people,-0.7674418604651163,,,-1.6373364
+Kazakhstan,"terrorism as a political, ideological or religious mean",-0.8158572479764532,,,-1.8912522
+Kazakhstan,having casual sex,-0.5419069588619762,,,-1.3262031
+Kazakhstan,political violence,-0.7744220730797912,,,-1.1799738
+Kazakhstan,death penalty,-0.4479287650019357,,,-0.5530855
+South Korea,claiming government benefits to which you are not entitled,-0.5032574743418116,,,-3.4500332
+South Korea,avoiding a fare on public transport,-0.5621597501115574,,,-0.9128151
+South Korea,stealing property,-0.7301204819277108,,,-1.5963312
+South Korea,cheating on taxes,-0.728157072735386,,,-1.4304218
+South Korea,someone accepting a bribe in the course of their duties,-0.72904953145917,,,-1.4295721
+South Korea,homosexuality,-0.5039714413208389,,,-1.1643844
+South Korea,prostitution,-0.6330209727800089,,,-1.0251896
+South Korea,abortion,-0.35296742525658187,,,-0.22424245
+South Korea,divorce,-0.0532797858099063,,,-0.37411135
+South Korea,sex before marriage,-0.16001784917447567,,,-1.2732822
+South Korea,suicide,-0.6260597947344935,,,-0.92557526
+South Korea,euthanasia,-0.23676929941990182,,,-0.08529093
+South Korea,for a man to beat his wife,-0.7745649263721552,,,-2.171538
+South Korea,parents beating children,-0.6892458723784025,,,-2.0432415
+South Korea,violence against other people,-0.7419009370816599,,,-1.556235
+South Korea,"terrorism as a political, ideological or religious mean",-0.7210174029451136,,,-1.7394419
+South Korea,having casual sex,-0.6635430611334225,,,-0.9449545
+South Korea,political violence,-0.6794288264167782,,,-1.0380008
+South Korea,death penalty,-0.25783132530120484,,,-0.53472644
+Kyrgyzstan,claiming government benefits to which you are not entitled,-0.541371158392435,,,-3.261951
+Kyrgyzstan,avoiding a fare on public transport,-0.6147762345679012,,,-1.3474079
+Kyrgyzstan,stealing property,-0.8427116062077502,,,-1.7025597
+Kyrgyzstan,cheating on taxes,-0.7327224131347843,,,-1.721826
+Kyrgyzstan,someone accepting a bribe in the course of their duties,-0.8343815513626834,,,-1.3941864
+Kyrgyzstan,homosexuality,-0.8928012519561815,,,-1.7181406
+Kyrgyzstan,prostitution,-0.8909231812457619,,,-1.386625
+Kyrgyzstan,abortion,-0.8210628019323671,,,-1.0037447
+Kyrgyzstan,divorce,-0.7207829591249281,,,-0.98773766
+Kyrgyzstan,sex before marriage,-0.7773892773892773,,,-1.9587681
+Kyrgyzstan,suicide,-0.9068783068783068,,,-1.0958648
+Kyrgyzstan,euthanasia,-0.7848386780425616,,,-0.42757502
+Kyrgyzstan,for a man to beat his wife,-0.8055316298210355,,,-2.1366
+Kyrgyzstan,parents beating children,-0.7332569026464125,,,-1.986324
+Kyrgyzstan,violence against other people,-0.8662072925638816,,,-1.6342192
+Kyrgyzstan,"terrorism as a political, ideological or religious mean",-0.8929539295392955,,,-1.893348
+Kyrgyzstan,having casual sex,-0.8527583527583528,,,-1.3473945
+Kyrgyzstan,political violence,-0.8815202637192167,,,-1.2439438
+Kyrgyzstan,death penalty,-0.7450865927223196,,,-0.73507637
+Lebanon,claiming government benefits to which you are not entitled,-0.466439135381115,,,-3.307682
+Lebanon,avoiding a fare on public transport,,,,-1.1585724
+Lebanon,stealing property,-0.784143030983806,,,-1.7918978
+Lebanon,cheating on taxes,-0.6530214424951267,,,-1.7261102
+Lebanon,someone accepting a bribe in the course of their duties,-0.6346296296296295,,,-1.3657632
+Lebanon,homosexuality,-0.7024608501118568,,,-1.6257328
+Lebanon,prostitution,,,,-1.499334
+Lebanon,abortion,-0.6974074074074075,,,-0.77957743
+Lebanon,divorce,-0.3456169737576773,,,-0.86554146
+Lebanon,sex before marriage,-0.7149232914923291,,,-1.7306011
+Lebanon,suicide,-0.7575925925925926,,,-0.9402833
+Lebanon,euthanasia,-0.6984801283866704,,,-0.57936704
+Lebanon,for a man to beat his wife,-0.7675585284280937,,,-2.0202246
+Lebanon,parents beating children,-0.658642499763995,,,-1.9623106
+Lebanon,violence against other people,-0.7746296296296296,,,-1.7004259
+Lebanon,"terrorism as a political, ideological or religious mean",-0.8168293816829382,,,-1.8426743
+Lebanon,having casual sex,-0.7372222222222223,,,-1.2695707
+Lebanon,political violence,-0.785024154589372,,,-1.193834
+Lebanon,death penalty,-0.3698289863380147,,,-0.8264057
+Mexico,claiming government benefits to which you are not entitled,-0.1784629306444315,,,-3.409277
+Mexico,avoiding a fare on public transport,-0.2664471560462264,,,-1.3286632
+Mexico,stealing property,-0.7034045008655511,,,-1.8018392
+Mexico,cheating on taxes,-0.5600722673893405,,,-1.7933083
+Mexico,someone accepting a bribe in the course of their duties,-0.6338956757804924,,,-1.2733538
+Mexico,homosexuality,-0.25807512663640547,,,-1.917084
+Mexico,prostitution,-0.4177413051973427,,,-1.5122705
+Mexico,abortion,-0.4997403946002077,,,-1.0006051
+Mexico,divorce,-0.10208816705336425,,,-0.99713266
+Mexico,sex before marriage,-0.16539738332356962,,,-1.9529114
+Mexico,suicide,-0.6069371643046659,,,-1.1166549
+Mexico,euthanasia,-0.38491829100216574,,,-0.74313873
+Mexico,for a man to beat his wife,-0.7338471419396275,,,-2.083673
+Mexico,parents beating children,-0.5366183574879227,,,-2.0779555
+Mexico,violence against other people,-0.6908492938672857,,,-1.6948926
+Mexico,"terrorism as a political, ideological or religious mean",-0.7033997655334114,,,-1.8006618
+Mexico,having casual sex,-0.48423955870764385,,,-1.4375699
+Mexico,political violence,-0.668483904465213,,,-1.174767
+Mexico,death penalty,-0.41381100726895115,,,-0.968784
+Pakistan,claiming government benefits to which you are not entitled,-0.6138246215367038,,,-3.4952595
+Pakistan,avoiding a fare on public transport,-0.7683310841205577,,,-1.3528099
+Pakistan,stealing property,-0.8251760261033833,,,-1.6751754
+Pakistan,cheating on taxes,-0.7849313487942772,,,-1.6060078
+Pakistan,someone accepting a bribe in the course of their duties,-0.8535353535353535,,,-1.538284
+Pakistan,homosexuality,-0.8705738705738706,,,-2.033722
+Pakistan,prostitution,-0.8769091012320445,,,-1.5531213
+Pakistan,abortion,-0.8245050829320493,,,-1.3548687
+Pakistan,divorce,-0.7044929251930775,,,-1.3940674
+Pakistan,sex before marriage,-0.8726121849214423,,,-2.1578987
+Pakistan,suicide,-0.8767676767676768,,,-0.9461899
+Pakistan,euthanasia,-0.8576051779935275,,,-1.0948851
+Pakistan,for a man to beat his wife,-0.7912388774811773,,,-2.165229
+Pakistan,parents beating children,-0.4796637127925471,,,-1.9745802
+Pakistan,violence against other people,-0.8396066463207867,,,-1.5593575
+Pakistan,"terrorism as a political, ideological or religious mean",-0.8549876670682041,,,-1.906772
+Pakistan,having casual sex,-0.8521937321937322,,,-1.6997236
+Pakistan,political violence,-0.8755832037325039,,,-1.1645913
+Pakistan,death penalty,-0.399700943179204,,,-0.8889559
+Peru,claiming government benefits to which you are not entitled,-0.44682598341134927,,,-3.4648597
+Peru,avoiding a fare on public transport,-0.6060825488776249,,,-1.0506922
+Peru,stealing property,-0.8759764068228919,,,-1.6523693
+Peru,cheating on taxes,-0.8095238095238094,,,-1.550914
+Peru,someone accepting a bribe in the course of their duties,-0.841108693900572,,,-1.2161664
+Peru,homosexuality,-0.5898078529657477,,,-1.526849
+Peru,prostitution,-0.7073369123149503,,,-1.2598407
+Peru,abortion,-0.7055393586005831,,,-0.7289647
+Peru,divorce,-0.2604974160206718,,,-0.850794
+Peru,sex before marriage,-0.251539788125154,,,-1.7084723
+Peru,suicide,-0.7972283005105762,,,-1.042453
+Peru,euthanasia,-0.4546225614927905,,,-0.5209015
+Peru,for a man to beat his wife,-0.8932696136997214,,,-2.001604
+Peru,parents beating children,-0.7998886502823511,,,-2.0101151
+Peru,violence against other people,-0.86468567776979,,,-1.608799
+Peru,"terrorism as a political, ideological or religious mean",-0.8581525312294542,,,-1.648494
+Peru,having casual sex,-0.6250738209735931,,,-1.0900501
+Peru,political violence,-0.83778922410269,,,-1.0629897
+Peru,death penalty,-0.3432062798413854,,,-0.8071469
+Romania,claiming government benefits to which you are not entitled,-0.7416276722635103,,,-3.4895272
+Romania,avoiding a fare on public transport,-0.7974706413730803,,,-1.052413
+Romania,stealing property,-0.8951917882225825,,,-1.8889889
+Romania,cheating on taxes,-0.7537293192297261,,,-1.7747457
+Romania,someone accepting a bribe in the course of their duties,-0.8618814573137573,,,-1.4296416
+Romania,homosexuality,-0.7016794762311416,,,-1.5108335
+Romania,prostitution,-0.7857673727238945,,,-1.519944
+Romania,abortion,-0.535727646838758,,,-0.6896752
+Romania,divorce,-0.21415994810490221,,,-0.840421
+Romania,sex before marriage,-0.1675213675213675,,,-1.5836384
+Romania,suicide,-0.8516680452164321,,,-1.2602849
+Romania,euthanasia,-0.748448956570784,,,-0.46455917
+Romania,for a man to beat his wife,-0.9133801548712408,,,-2.1381767
+Romania,parents beating children,-0.8297795771479982,,,-2.0780785
+Romania,violence against other people,-0.9141414141414141,,,-1.7738205
+Romania,"terrorism as a political, ideological or religious mean",-0.9281153074256522,,,-1.8950894
+Romania,having casual sex,-0.6374170638258106,,,-1.2339237
+Romania,political violence,-0.8860256765493674,,,-1.2052784
+Romania,death penalty,-0.6986944679252372,,,-0.8687916
+Russia,claiming government benefits to which you are not entitled,-0.3577094215515574,,,-3.531081
+Russia,avoiding a fare on public transport,-0.13414710485133022,,,-1.3853343
+Russia,stealing property,-0.7172057082320683,,,-1.7248936
+Russia,cheating on taxes,-0.4130628906748309,,,-1.6741709
+Russia,someone accepting a bribe in the course of their duties,-0.6831882961281373,,,-1.3295811
+Russia,homosexuality,-0.6434415413037742,,,-1.8349282
+Russia,prostitution,-0.566051182377713,,,-1.4526958
+Russia,abortion,-0.20514319111630624,,,-1.0136214
+Russia,divorce,0.13242708532771713,,,-0.96762353
+Russia,sex before marriage,0.12510430708004364,,,-1.7126751
+Russia,suicide,-0.6203483768804433,,,-1.2501036
+Russia,euthanasia,-0.18698528419063049,,,-0.8235798
+Russia,for a man to beat his wife,-0.7480886850152905,,,-1.9813038
+Russia,parents beating children,-0.7030314489191403,,,-2.0032105
+Russia,violence against other people,-0.7606352807714124,,,-1.7290186
+Russia,"terrorism as a political, ideological or religious mean",-0.8029730410682793,,,-1.838672
+Russia,having casual sex,-0.28669573259347336,,,-1.3809121
+Russia,political violence,-0.685250162443145,,,-1.2828965
+Russia,death penalty,-0.20830812663843515,,,-0.84099233
+Turkey,claiming government benefits to which you are not entitled,-0.8017892736290734,,,-3.4643207
+Turkey,avoiding a fare on public transport,-0.7562814070351759,,,-1.07426
+Turkey,stealing property,-0.8643002403401738,,,-1.5579257
+Turkey,cheating on taxes,-0.8473672001855718,,,-1.4265902
+Turkey,someone accepting a bribe in the course of their duties,-0.8554071600816175,,,-1.3986492
+Turkey,homosexuality,-0.7606620585884233,,,-1.4093506
+Turkey,prostitution,-0.8104437911241774,,,-1.2550328
+Turkey,abortion,-0.650511881281112,,,-0.6497799
+Turkey,divorce,-0.24395417904115402,,,-0.8622236
+Turkey,sex before marriage,-0.7000941619585687,,,-1.6690233
+Turkey,suicide,-0.822110692876063,,,-0.6337303
+Turkey,euthanasia,-0.6599283154121863,,,-0.51785594
+Turkey,for a man to beat his wife,-0.8213707251608127,,,-2.0576308
+Turkey,parents beating children,-0.7570370370370371,,,-1.8161421
+Turkey,violence against other people,-0.7877861180613475,,,-1.4953893
+Turkey,"terrorism as a political, ideological or religious mean",,,,-1.5730611
+Turkey,having casual sex,-0.7008583087097229,,,-1.3114786
+Turkey,political violence,,,,-1.1461693
+Turkey,death penalty,-0.49022939677145283,,,-0.5550555
+Ukraine,claiming government benefits to which you are not entitled,-0.46615370523037464,,,-3.3677585
+Ukraine,avoiding a fare on public transport,-0.41891290810426113,,,-1.1359352
+Ukraine,stealing property,-0.7876621657400054,,,-1.576527
+Ukraine,cheating on taxes,-0.5359207266721717,,,-1.5146297
+Ukraine,someone accepting a bribe in the course of their duties,-0.6742301458670988,,,-1.3251898
+Ukraine,homosexuality,-0.6150565152484538,,,-1.364927
+Ukraine,prostitution,-0.567647933392804,,,-1.1720266
+Ukraine,abortion,-0.3209549071618037,,,-0.7354093
+Ukraine,divorce,0.04044966375589682,,,-0.69943446
+Ukraine,sex before marriage,0.09898242368177614,,,-1.5201702
+Ukraine,suicide,-0.724904214559387,,,-0.78577256
+Ukraine,euthanasia,-0.1813826146475017,,,-0.51914513
+Ukraine,for a man to beat his wife,-0.7795626952253458,,,-1.9449135
+Ukraine,parents beating children,-0.6781919683054205,,,-1.9266268
+Ukraine,violence against other people,-0.7560017849174475,,,-1.6762453
+Ukraine,"terrorism as a political, ideological or religious mean",-0.8174154784324277,,,-1.8017561
+Ukraine,having casual sex,-0.3774053382991931,,,-1.2567868
+Ukraine,political violence,-0.7410220346929207,,,-1.2164849
+Ukraine,death penalty,-0.23094934014474242,,,-0.71728337
+Egypt,claiming government benefits to which you are not entitled,-0.8246330319821132,,,-3.4429145
+Egypt,avoiding a fare on public transport,-0.8683127572016461,,,-1.1521517
+Egypt,stealing property,-0.9853091585309157,,,-1.6277497
+Egypt,cheating on taxes,-0.8805885681946802,,,-1.7067764
+Egypt,someone accepting a bribe in the course of their duties,-0.9605103846512061,,,-1.3720983
+Egypt,homosexuality,,,,-1.9898059
+Egypt,prostitution,,,,-1.4868093
+Egypt,abortion,-0.764088138771683,,,-1.1030159
+Egypt,divorce,-0.114469633361321,,,-1.130821
+Egypt,sex before marriage,,,,-1.9724514
+Egypt,suicide,-0.9743375174337519,,,-0.8843624
+Egypt,euthanasia,-0.8726642049904889,,,-0.76318914
+Egypt,for a man to beat his wife,-0.6553783002145722,,,-1.942247
+Egypt,parents beating children,-0.36122733612273356,,,-1.898825
+Egypt,violence against other people,-0.8870246085011187,,,-1.6107256
+Egypt,"terrorism as a political, ideological or religious mean",-0.9790688575899843,,,-1.7636709
+Egypt,having casual sex,,,,-1.4256198
+Egypt,political violence,-0.9744292237442922,,,-1.2110085
+Egypt,death penalty,0.25301204819277107,,,-0.6681956
+United States of America,claiming government benefits to which you are not entitled,-0.6598303911388023,,,-3.0590262
+United States of America,avoiding a fare on public transport,-0.5705261336102457,,,-0.8938573
+United States of America,stealing property,-0.8017480096919348,,,-2.0827105
+United States of America,cheating on taxes,-0.7533264212890963,,,-2.020225
+United States of America,someone accepting a bribe in the course of their duties,-0.8286208387375703,,,-1.661722
+United States of America,homosexuality,0.22152560083594564,,,-2.2809658
+United States of America,prostitution,-0.3699519542916504,,,-1.9372832
+United States of America,abortion,-0.09622126996493963,,,-1.0232029
+United States of America,divorce,0.24387397899649943,,,-1.0628229
+United States of America,sex before marriage,0.2700021659085986,,,-1.7793375
+United States of America,suicide,-0.48148148148148145,,,-1.5893898
+United States of America,euthanasia,-0.025707720986690944,,,-0.93949586
+United States of America,for a man to beat his wife,-0.9079118028534372,,,-2.234953
+United States of America,parents beating children,-0.7797657634297074,,,-2.327083
+United States of America,violence against other people,-0.687521633783316,,,-2.0351534
+United States of America,"terrorism as a political, ideological or religious mean",-0.8763510592304367,,,-2.167767
+United States of America,having casual sex,0.06124745704021122,,,-1.5188516
+United States of America,political violence,-0.7286066744578625,,,-1.5288187
+United States of America,death penalty,0.002511474841950287,,,-1.4785928
+Mongolia,claiming government benefits to which you are not entitled,-0.37043832823649336,,,-3.5409088
+Mongolia,avoiding a fare on public transport,-0.34120200786867455,,,-1.1296265
+Mongolia,stealing property,-0.4909781576448243,,,-1.8634783
+Mongolia,cheating on taxes,-0.42382309048975714,,,-1.6830063
+Mongolia,someone accepting a bribe in the course of their duties,-0.46045312711979375,,,-1.442145
+Mongolia,homosexuality,-0.3612806946140279,,,-1.7413266
+Mongolia,prostitution,-0.46886446886446886,,,-1.5182483
+Mongolia,abortion,-0.2935829602496269,,,-1.0652977
+Mongolia,divorce,-0.2201872201872202,,,-1.0852063
+Mongolia,sex before marriage,-0.214353547686881,,,-1.9658693
+Mongolia,suicide,-0.4947768281101614,,,-1.1519864
+Mongolia,euthanasia,-0.3494776828110161,,,-0.65872127
+Mongolia,for a man to beat his wife,-0.4805318138651472,,,-2.2072413
+Mongolia,parents beating children,-0.4078144078144078,,,-2.0738003
+Mongolia,violence against other people,-0.5132275132275131,,,-1.6755676
+Mongolia,"terrorism as a political, ideological or religious mean",-0.5149911816578483,,,-1.997811
+Mongolia,having casual sex,-0.3705060371727038,,,-1.3440955
+Mongolia,political violence,-0.48948582281915604,,,-1.2117088
+Mongolia,death penalty,-0.0717677384344051,,,-0.86364585
+Nicaragua,claiming government benefits to which you are not entitled,-0.32481481481481483,,,-3.3204792
+Nicaragua,avoiding a fare on public transport,-0.41111111111111104,,,-1.2600014
+Nicaragua,stealing property,-0.8533333333333334,,,-1.7671913
+Nicaragua,cheating on taxes,-0.7355555555555556,,,-1.6585737
+Nicaragua,someone accepting a bribe in the course of their duties,-0.7479629629629629,,,-1.2235616
+Nicaragua,homosexuality,-0.4968518518518518,,,-2.0532982
+Nicaragua,prostitution,-0.6214814814814814,,,-1.5075366
+Nicaragua,abortion,-0.7661111111111111,,,-1.0198187
+Nicaragua,divorce,-0.22666666666666666,,,-1.0940846
+Nicaragua,sex before marriage,-0.3137037037037037,,,-2.0077603
+Nicaragua,suicide,-0.8220370370370369,,,-1.2331805
+Nicaragua,euthanasia,-0.6733333333333333,,,-0.7351925
+Nicaragua,for a man to beat his wife,-0.8698148148148148,,,-1.8485523
+Nicaragua,parents beating children,-0.255,,,-1.993823
+Nicaragua,violence against other people,-0.7833333333333333,,,-1.786466
+Nicaragua,"terrorism as a political, ideological or religious mean",-0.7787037037037036,,,-1.9036129
+Nicaragua,having casual sex,-0.461111111111111,,,-1.1837648
+Nicaragua,political violence,-0.7607407407407407,,,-1.1905698
+Nicaragua,death penalty,-0.7081481481481482,,,-0.9309681
+Morocco,claiming government benefits to which you are not entitled,-0.405,,,-3.2121093
+Morocco,avoiding a fare on public transport,-0.5266666666666666,,,-1.0768547
+Morocco,stealing property,-0.6631481481481482,,,-1.6442978
+Morocco,cheating on taxes,-0.5931481481481482,,,-1.628658
+Morocco,someone accepting a bribe in the course of their duties,-0.6031481481481481,,,-1.1354151
+Morocco,homosexuality,-0.6066666666666667,,,-1.5328321
+Morocco,prostitution,-0.6040740740740741,,,-1.327723
+Morocco,abortion,-0.41777777777777775,,,-0.7189412
+Morocco,divorce,0.04685185185185185,,,-0.8621708
+Morocco,sex before marriage,-0.5238888888888888,,,-1.6339581
+Morocco,suicide,-0.5687037037037036,,,-0.90073884
+Morocco,euthanasia,-0.5125925925925926,,,-0.26776165
+Morocco,for a man to beat his wife,-0.495,,,-1.8664764
+Morocco,parents beating children,-0.17703703703703702,,,-1.770632
+Morocco,violence against other people,-0.5951851851851852,,,-1.5845941
+Morocco,"terrorism as a political, ideological or religious mean",-0.700925925925926,,,-1.6831572
+Morocco,having casual sex,-0.6142592592592593,,,-1.1556709
+Morocco,political violence,-0.6579629629629629,,,-1.0758111
+Morocco,death penalty,-0.2659259259259259,,,-0.6476291
+Venezuela,claiming government benefits to which you are not entitled,-0.2956115779645192,,,-3.4047456
+Venezuela,avoiding a fare on public transport,-0.5363211951447246,,,-1.0484709
+Venezuela,stealing property,-0.8001867413632119,,,-1.4603395
+Venezuela,cheating on taxes,-0.7301587301587302,,,-1.351006
+Venezuela,someone accepting a bribe in the course of their duties,-0.7527544351073763,,,-1.2856104
+Venezuela,homosexuality,-0.29318394024276373,,,-2.1020653
+Venezuela,prostitution,-0.492063492063492,,,-1.3614904
+Venezuela,abortion,-0.5906629318394024,,,-1.0531597
+Venezuela,divorce,0.005975723622782437,,,-1.1446241
+Venezuela,sex before marriage,-0.06087768440709617,,,-2.012344
+Venezuela,suicide,-0.6879551820728291,,,-0.8558652
+Venezuela,euthanasia,-0.48173386333522616,,,-0.79250467
+Venezuela,for a man to beat his wife,-0.7557422969187675,,,-2.1043105
+Venezuela,parents beating children,-0.4274509803921569,,,-1.925235
+Venezuela,violence against other people,-0.6943043884220355,,,-1.4455758
+Venezuela,"terrorism as a political, ideological or religious mean",-0.7540616246498599,,,-1.7584852
+Venezuela,having casual sex,-0.21549953314659193,,,-1.4216685
+Venezuela,political violence,-0.6935574229691877,,,-1.2014422
+Venezuela,death penalty,-0.4819794584500467,,,-0.8005408
+Iraq,claiming government benefits to which you are not entitled,-0.43,,,-3.3054576
+Iraq,avoiding a fare on public transport,-0.5585185185185185,,,-1.1310316
+Iraq,stealing property,-0.6853703703703704,,,-1.513088
+Iraq,cheating on taxes,-0.6144444444444443,,,-1.489645
+Iraq,someone accepting a bribe in the course of their duties,-0.6338888888888888,,,-1.2451799
+Iraq,homosexuality,-0.7120425815036593,,,-1.5986652
+Iraq,prostitution,,,,-1.1875094
+Iraq,abortion,-0.6040740740740741,,,-0.68751687
+Iraq,divorce,-0.38407407407407407,,,-0.75060815
+Iraq,sex before marriage,,,,-1.8334391
+Iraq,suicide,-0.7155555555555556,,,-0.4319791
+Iraq,euthanasia,-0.6894444444444445,,,-0.48105067
+Iraq,for a man to beat his wife,-0.6409259259259259,,,-1.9712769
+Iraq,parents beating children,-0.47981481481481486,,,-1.920525
+Iraq,violence against other people,-0.6685185185185185,,,-1.6066453
+Iraq,"terrorism as a political, ideological or religious mean",-0.675,,,-1.8514305
+Iraq,having casual sex,,,,-1.3297942
+Iraq,political violence,-0.632962962962963,,,-0.976758
+Iraq,death penalty,-0.1198148148148148,,,-0.64994884
+Tajikistan,claiming government benefits to which you are not entitled,-0.5337037037037036,,,-3.1693473
+Tajikistan,avoiding a fare on public transport,-0.6446296296296297,,,-1.2928625
+Tajikistan,stealing property,-0.7353703703703703,,,-1.6897221
+Tajikistan,cheating on taxes,-0.6838888888888889,,,-1.6502987
+Tajikistan,someone accepting a bribe in the course of their duties,-0.7209259259259259,,,-1.5065038
+Tajikistan,homosexuality,,,,-1.8803409
+Tajikistan,prostitution,-0.7540740740740741,,,-1.4050297
+Tajikistan,abortion,-0.7037037037037037,,,-1.1487889
+Tajikistan,divorce,-0.6964814814814815,,,-1.0805395
+Tajikistan,sex before marriage,-0.7487037037037038,,,-1.9640789
+Tajikistan,suicide,-0.7594444444444444,,,-0.7917741
+Tajikistan,euthanasia,-0.6992592592592592,,,-0.5200146
+Tajikistan,for a man to beat his wife,-0.7118518518518518,,,-2.1614108
+Tajikistan,parents beating children,-0.7133333333333334,,,-1.7967058
+Tajikistan,violence against other people,-0.7224074074074074,,,-1.4892099
+Tajikistan,"terrorism as a political, ideological or religious mean",-0.7270370370370369,,,-1.6852157
+Tajikistan,having casual sex,-0.7414814814814814,,,-1.3847828
+Tajikistan,political violence,-0.73,,,-0.9446591
+Tajikistan,death penalty,-0.6748148148148148,,,-0.5748059
+Guatemala,claiming government benefits to which you are not entitled,-0.3016924208977189,,,-3.6123352
+Guatemala,avoiding a fare on public transport,-0.400405380504883,,,-1.4671772
+Guatemala,stealing property,-0.7254901960784315,,,-1.9150482
+Guatemala,cheating on taxes,-0.6922648859209793,,,-1.863726
+Guatemala,someone accepting a bribe in the course of their duties,-0.7091883897208355,,,-1.3754253
+Guatemala,homosexuality,-0.3932687874596589,,,-2.1640964
+Guatemala,prostitution,-0.4673721340388006,,,-1.6193469
+Guatemala,abortion,-0.5645919778699862,,,-1.3524134
+Guatemala,divorce,-0.11019207793401342,,,-1.4369773
+Guatemala,sex before marriage,-0.3325956662056247,,,-2.2591543
+Guatemala,suicide,-0.6436686062621224,,,-1.0800241
+Guatemala,euthanasia,-0.393939393939394,,,-1.0087141
+Guatemala,for a man to beat his wife,-0.8044739022369511,,,-2.2303874
+Guatemala,parents beating children,-0.31888888888888883,,,-2.0939407
+Guatemala,violence against other people,-0.7308970099667774,,,-1.7628044
+Guatemala,"terrorism as a political, ideological or religious mean",-0.75787728026534,,,-1.7395809
+Guatemala,having casual sex,-0.441411634960022,,,-1.7366068
+Guatemala,political violence,-0.7622351743917105,,,-1.2651621
+Guatemala,death penalty,-0.09047355813524967,,,-1.0347751
+Malaysia,claiming government benefits to which you are not entitled,-0.24549378014724552,,,-3.7018623
+Malaysia,avoiding a fare on public transport,-0.33790302107133785,,,-0.777578
+Malaysia,stealing property,-0.5333841076415333,,,-1.8710353
+Malaysia,cheating on taxes,-0.4646695438774647,,,-1.7229502
+Malaysia,someone accepting a bribe in the course of their duties,-0.5367690615215367,,,-1.5136127
+Malaysia,homosexuality,-0.4235423542354235,,,-1.6795518
+Malaysia,prostitution,-0.46940847930946933,,,-1.6007957
+Malaysia,abortion,-0.43894389438943887,,,-0.7190818
+Malaysia,divorce,-0.1904882795971905,,,-0.6854576
+Malaysia,sex before marriage,-0.37310654142337313,,,-1.7013241
+Malaysia,suicide,-0.5222137598375223,,,-1.2623845
+Malaysia,euthanasia,-0.3436574426673436,,,-0.5090296
+Malaysia,for a man to beat his wife,-0.5255987137175255,,,-2.1475098
+Malaysia,parents beating children,-0.22975374460522974,,,-2.223229
+Malaysia,violence against other people,-0.49411864263349414,,,-1.9468008
+Malaysia,"terrorism as a political, ideological or religious mean",-0.5323686214775324,,,-2.1530437
+Malaysia,having casual sex,-0.4235423542354235,,,-1.2384812
+Malaysia,political violence,-0.5225522552255225,,,-1.2929779
+Malaysia,death penalty,-0.20555132436320558,,,-0.9576265
+universal,claiming government benefits to which you are not entitled,,,,-3.5344238
+universal,avoiding a fare on public transport,,,,-0.784054
+universal,stealing property,,,,-2.4584394
+universal,cheating on taxes,,,,-2.6974251
+universal,someone accepting a bribe in the course of their duties,,,,-1.7637218
+universal,homosexuality,,,,-2.373611
+universal,prostitution,,,,-2.1787205
+universal,abortion,,,,-1.8254225
+universal,divorce,,,,-1.1629491
+universal,sex before marriage,,,,-1.7751999
+universal,suicide,,,,-1.780791
+universal,euthanasia,,,,-1.2416618
+universal,for a man to beat his wife,,,,-2.0146976
+universal,parents beating children,,,,-2.3299644
+universal,violence against other people,,,,-2.2231011
+universal,"terrorism as a political, ideological or religious mean",,,,-2.9067683
+universal,having casual sex,,,,-1.3265862
+universal,political violence,,,,-1.2291105
+universal,death penalty,,,,-1.9996856
+universal,claiming government benefits to which you are not entitled,,,,-3.5344238
+universal,avoiding a fare on public transport,,,,-0.784054
+universal,stealing property,,,,-2.4584394
+universal,cheating on taxes,,,,-2.6974251
+universal,someone accepting a bribe in the course of their duties,,,,-1.7637218
+universal,homosexuality,,,,-2.373611
+universal,prostitution,,,,-2.1787205
+universal,abortion,,,,-1.8254225
+universal,divorce,,,,-1.1629491
+universal,sex before marriage,,,,-1.7751999
+universal,suicide,,,,-1.780791
+universal,euthanasia,,,,-1.2416618
+universal,for a man to beat his wife,,,,-2.0146976
+universal,parents beating children,,,,-2.3299644
+universal,violence against other people,,,,-2.2231011
+universal,"terrorism as a political, ideological or religious mean",,,,-2.9067683
+universal,having casual sex,,,,-1.3265862
+universal,political violence,,,,-1.2291105
+universal,death penalty,,,,-1.9996856
