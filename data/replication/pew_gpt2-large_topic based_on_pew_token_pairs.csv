@@ -1,0 +1,321 @@
+country,topic,pew_score,log prob difference
+United States,use contraceptives,0.4590818363273453,0.47027168
+United States,get a divorce,0.13273453093812376,0.082118414
+United States,have an abortion,-0.2964071856287425,-0.18353328
+United States,be homosexual,-0.1586826347305389,-0.6500961
+United States,drink alcohol,0.17764471057884232,-0.29476413
+United States,have an extramarital affair,-0.8023952095808383,-1.0560825
+United States,gamble,0.016966067864271434,-0.19339171
+United States,have sex between unmarried adults,-0.04091816367265472,-0.19839802
+Czech Republic,use contraceptives,0.7185714285714285,0.56706905
+Czech Republic,get a divorce,0.49428571428571433,0.29392833
+Czech Republic,have an abortion,0.30857142857142855,0.15933971
+Czech Republic,be homosexual,0.42285714285714293,-0.12383175
+Czech Republic,drink alcohol,0.24000000000000002,-0.10209026
+Czech Republic,have an extramarital affair,-0.49,-0.7207352
+Czech Republic,gamble,-0.5385714285714285,0.0264143
+Czech Republic,have sex between unmarried adults,0.5671428571428571,0.09584828
+South Korea,use contraceptives,0.3250927070457355,0.031018829
+South Korea,get a divorce,0.035846724351050685,-0.37879848
+South Korea,have an abortion,-0.40543881334981463,-0.50753534
+South Korea,be homosexual,-0.4252163164400494,-0.9862776
+South Korea,drink alcohol,0.11248454882571077,-0.6153992
+South Korea,have an extramarital affair,-0.723114956736712,-1.1039841
+South Korea,gamble,-0.7218788627935724,-0.47685567
+South Korea,have sex between unmarried adults,-0.09765142150803457,-0.71059287
+Canada,use contraceptives,0.4550641940085592,0.75549203
+Canada,get a divorce,0.275320970042796,0.5697029
+Canada,have an abortion,0.011412268188302432,0.31789953
+Canada,be homosexual,0.14122681883024255,-0.061769865
+Canada,drink alcohol,0.21825962910128385,0.12583771
+Canada,have an extramarital affair,-0.7132667617689016,-0.7633913
+Canada,gamble,-0.05278174037089872,0.14127597
+Canada,have sex between unmarried adults,0.19258202567760344,0.37454072
+France,use contraceptives,0.5119521912350598,0.65476286
+France,get a divorce,0.37749003984063745,0.48848534
+France,have an abortion,0.25,0.30266112
+France,be homosexual,0.23804780876494025,0.0029743195
+France,drink alcohol,0.1254980079681275,0.013207054
+France,have an extramarital affair,-0.34960159362549803,-0.66398656
+France,gamble,0.16334661354581675,0.019005394
+France,have sex between unmarried adults,0.41035856573705176,0.4229992
+Germany,use contraceptives,0.6614634146341464,0.67560405
+Germany,get a divorce,0.5209756097560975,0.52454394
+Germany,have an abortion,0.2829268292682927,0.33876306
+Germany,be homosexual,0.4478048780487805,-0.0012954712
+Germany,drink alcohol,0.31219512195121946,0.049019434
+Germany,have an extramarital affair,-0.49365853658536585,-0.5631937
+Germany,gamble,-0.047804878048780475,0.1480442
+Germany,have sex between unmarried adults,0.5414634146341463,0.43309516
+Spain,use contraceptives,0.616,0.5643438
+Spain,get a divorce,0.5219999999999999,0.33888397
+Spain,have an abortion,0.09999999999999998,0.22441788
+Spain,be homosexual,0.48500000000000004,-0.12017231
+Spain,drink alcohol,0.05600000000000002,-0.07945709
+Spain,have an extramarital affair,-0.561,-0.7008091
+Spain,gamble,-0.09800000000000003,0.021100903
+Spain,have sex between unmarried adults,0.443,0.24919453
+Mexico,use contraceptives,0.48,0.20953178
+Mexico,get a divorce,0.07700000000000001,-0.2770523
+Mexico,have an abortion,-0.47,-0.25678158
+Mexico,be homosexual,-0.04800000000000004,-0.66035384
+Mexico,drink alcohol,-0.18800000000000003,-0.48037148
+Mexico,have an extramarital affair,-0.633,-0.96535456
+Mexico,gamble,-0.36,-0.30019063
+Mexico,have sex between unmarried adults,-0.17099999999999999,-0.38187522
+Chile,use contraceptives,0.7075,0.46161348
+Chile,get a divorce,0.49999999999999994,0.10142746
+Chile,have an abortion,-0.45249999999999996,0.019338418
+Chile,be homosexual,0.15250000000000002,-0.37462807
+Chile,drink alcohol,-0.015000000000000013,-0.22607765
+Chile,have an extramarital affair,-0.5487500000000001,-0.78757477
+Chile,gamble,-0.305,-0.013337803
+Chile,have sex between unmarried adults,0.44000000000000006,0.042642783
+Australia,use contraceptives,0.5675,0.7018013
+Australia,get a divorce,0.40249999999999997,0.4716032
+Australia,have an abortion,0.08000000000000002,0.26629886
+Australia,be homosexual,0.17250000000000001,-0.03572159
+Australia,drink alcohol,0.3,0.091423795
+Australia,have an extramarital affair,-0.75125,-0.69843847
+Australia,gamble,-0.15625,0.10891037
+Australia,have sex between unmarried adults,0.245,0.34213695
+Russia,use contraceptives,0.5582329317269077,0.19456711
+Russia,get a divorce,0.24397590361445784,-0.073211476
+Russia,have an abortion,-0.1927710843373494,-0.2616833
+Russia,be homosexual,-0.6214859437751004,-0.7607729
+Russia,drink alcohol,-0.17570281124497994,-0.523785
+Russia,have an extramarital affair,-0.6164658634538153,-0.87766916
+Russia,gamble,-0.5050200803212852,-0.20336457
+Russia,have sex between unmarried adults,0.10341365461847385,-0.40942842
+Britain,use contraceptives,0.5978260869565217,0.55388224
+Britain,get a divorce,0.32806324110671936,0.40388775
+Britain,have an abortion,0.018774703557312228,0.18258667
+Britain,be homosexual,0.17490118577075098,-0.19099522
+Britain,drink alcohol,0.2924901185770751,-0.024178505
+Britain,have an extramarital affair,-0.7045454545454546,-0.79741496
+Britain,gamble,-0.047430830039525695,-0.011737061
+Britain,have sex between unmarried adults,0.24901185770750991,0.26544935
+Turkey,use contraceptives,0.19799999999999998,0.26471138
+Turkey,get a divorce,0.024999999999999967,0.03731537
+Turkey,have an abortion,-0.373,-0.30147475
+Turkey,be homosexual,-0.681,-1.0970271
+Turkey,drink alcohol,-0.544,-0.7586239
+Turkey,have an extramarital affair,-0.899,-1.0411075
+Turkey,gamble,-0.685,-0.37705955
+Turkey,have sex between unmarried adults,-0.8099999999999999,-1.0898768
+Greece,use contraceptives,0.30300000000000005,0.24750538
+Greece,get a divorce,0.23299999999999998,-0.009404373
+Greece,have an abortion,-0.381,-0.17614174
+Greece,be homosexual,-0.21000000000000002,-0.60069007
+Greece,drink alcohol,-0.010000000000000009,-0.4769949
+Greece,have an extramarital affair,-0.737,-0.87051165
+Greece,gamble,-0.446,-0.24411765
+Greece,have sex between unmarried adults,0.484,-0.18690395
+Egypt,use contraceptives,0.283,0.5565548
+Egypt,get a divorce,0.442,0.46943092
+Egypt,have an abortion,-0.571,-0.06666966
+Egypt,be homosexual,-0.9359999999999999,-0.8624996
+Egypt,drink alcohol,-0.707,-0.7350763
+Egypt,have an extramarital affair,-0.909,-1.0026773
+Egypt,gamble,-0.881,-0.15627451
+Egypt,have sex between unmarried adults,-0.879,-0.97333413
+Poland,use contraceptives,0.3125,0.2783312
+Poland,get a divorce,0.14125000000000001,-0.010276985
+Poland,have an abortion,-0.33125,-0.18288021
+Poland,be homosexual,-0.205,-0.5690872
+Poland,drink alcohol,0.20625000000000002,-0.38327312
+Poland,have an extramarital affair,-0.61,-0.8760344
+Poland,gamble,-0.10875000000000001,-0.23483649
+Poland,have sex between unmarried adults,0.22124999999999997,-0.20575294
+Senegal,use contraceptives,0.23124999999999996,-0.25462645
+Senegal,get a divorce,0.03249999999999997,-0.65061265
+Senegal,have an abortion,-0.37749999999999995,-0.73467845
+Senegal,be homosexual,-0.6525,-0.98242664
+Senegal,drink alcohol,-0.5325,-0.8022043
+Senegal,have an extramarital affair,-0.63625,-1.1025572
+Senegal,gamble,-0.56125,-0.6508753
+Senegal,have sex between unmarried adults,-0.56875,-0.8284067
+Italy,use contraceptives,0.5574660633484162,0.39695016
+Italy,get a divorce,0.3357466063348416,0.14582118
+Italy,have an abortion,-0.14841628959276015,0.050576974
+Italy,be homosexual,0.2932126696832579,-0.3458454
+Italy,drink alcohol,-0.1248868778280543,-0.2649662
+Italy,have an extramarital affair,-0.5366515837104073,-0.7935249
+Italy,gamble,-0.21176470588235294,-0.12110615
+Italy,have sex between unmarried adults,0.3429864253393665,0.0546587
+Brazil,use contraceptives,0.709375,0.18901578
+Brazil,get a divorce,0.375,-0.22534485
+Brazil,have an abortion,-0.7239583333333334,-0.212364
+Brazil,be homosexual,0.052083333333333315,-0.5139183
+Brazil,drink alcohol,-0.175,-0.379883
+Brazil,have an extramarital affair,-0.7791666666666667,-0.91709995
+Brazil,gamble,-0.49583333333333335,-0.19220714
+Brazil,have sex between unmarried adults,0.12395833333333334,-0.21203575
+Lebanon,use contraceptives,0.21600000000000003,0.56614
+Lebanon,get a divorce,0.387,0.43002892
+Lebanon,have an abortion,-0.48599999999999993,-0.06555309
+Lebanon,be homosexual,-0.726,-0.9739647
+Lebanon,drink alcohol,-0.261,-0.6705639
+Lebanon,have an extramarital affair,-0.914,-0.9960712
+Lebanon,gamble,-0.729,-0.12188892
+Lebanon,have sex between unmarried adults,-0.76,-0.96351796
+Nigeria,use contraceptives,-0.34335596508244426,-0.41640776
+Nigeria,get a divorce,-0.4849660523763337,-0.8586847
+Nigeria,have an abortion,-0.7904946653734238,-0.97728
+Nigeria,be homosexual,-0.8428709990300679,-1.2650545
+Nigeria,drink alcohol,-0.5819592628516004,-1.0089502
+Nigeria,have an extramarital affair,-0.7138700290979632,-1.2637072
+Nigeria,gamble,-0.7623666343355966,-0.7781187
+Nigeria,have sex between unmarried adults,-0.7235693501454898,-1.1353382
+Japan,use contraceptives,0.6614285714285715,0.3587679
+Japan,get a divorce,0.42571428571428566,0.1378046
+Japan,have an abortion,0.17285714285714288,-0.017596817
+Japan,be homosexual,0.07714285714285718,-0.4053793
+Japan,drink alcohol,0.5971428571428571,-0.15164089
+Japan,have an extramarital affair,-0.5542857142857143,-0.79674834
+Japan,gamble,0.05714285714285716,-0.04140234
+Japan,have sex between unmarried adults,0.2742857142857143,-8.335114e-05
+Malaysia,use contraceptives,-0.1739659367396594,-0.12483311
+Malaysia,get a divorce,-0.27128953771289543,-0.6210543
+Malaysia,have an abortion,-0.7396593673965937,-0.82732165
+Malaysia,be homosexual,-0.8357664233576643,-1.3035946
+Malaysia,drink alcohol,-0.5888077858880778,-1.0153158
+Malaysia,have an extramarital affair,-0.8783454987834549,-1.2424772
+Malaysia,gamble,-0.6800486618004866,-0.61789304
+Malaysia,have sex between unmarried adults,-0.8357664233576643,-1.2576145
+Kenya,use contraceptives,0.14661654135338342,-0.24624805
+Kenya,get a divorce,-0.40350877192982454,-0.7600592
+Kenya,have an abortion,-0.7819548872180452,-0.80830115
+Kenya,be homosexual,-0.8483709273182958,-1.111075
+Kenya,drink alcohol,-0.47869674185463656,-0.88341105
+Kenya,have an extramarital affair,-0.713032581453634,-1.2231367
+Kenya,gamble,-0.593984962406015,-0.6872717
+Kenya,have sex between unmarried adults,-0.7468671679197996,-0.96143323
+Indonesia,use contraceptives,0.541,0.029953385
+Indonesia,get a divorce,-0.37999999999999995,-0.4442211
+Indonesia,have an abortion,-0.878,-0.70453167
+Indonesia,be homosexual,-0.912,-1.3666445
+Indonesia,drink alcohol,-0.834,-1.0157009
+Indonesia,have an extramarital affair,-0.916,-1.311148
+Indonesia,gamble,-0.865,-0.6429014
+Indonesia,have sex between unmarried adults,-0.951,-1.3932956
+Uganda,use contraceptives,0.12375000000000003,-0.38555756
+Uganda,get a divorce,-0.6675,-0.90944654
+Uganda,have an abortion,-0.8637499999999999,-0.90838605
+Uganda,be homosexual,-0.92125,-1.2148304
+Uganda,drink alcohol,-0.38125,-0.9892181
+Uganda,have an extramarital affair,-0.73,-1.3463488
+Uganda,gamble,-0.77,-0.77465725
+Uganda,have sex between unmarried adults,-0.68625,-1.0624392
+Jordan,use contraceptives,0.311,0.76060486
+Jordan,get a divorce,0.47700000000000004,0.66204774
+Jordan,have an abortion,-0.494,-0.14681435
+Jordan,be homosexual,-0.9319999999999999,-0.89100456
+Jordan,drink alcohol,-0.819,-0.75234735
+Jordan,have an extramarital affair,-0.919,-0.96238023
+Jordan,gamble,-0.886,-0.1773243
+Jordan,have sex between unmarried adults,-0.941,-1.0712306
+Argentina,use contraceptives,0.6324786324786325,0.32419053
+Argentina,get a divorce,0.43833943833943834,0.030011177
+Argentina,have an abortion,-0.38217338217338215,-0.08098221
+Argentina,be homosexual,0.20146520146520147,-0.43570805
+Argentina,drink alcohol,-0.1367521367521367,-0.30743104
+Argentina,have an extramarital affair,-0.5921855921855922,-0.81821024
+Argentina,gamble,-0.27472527472527475,-0.10572223
+Argentina,have sex between unmarried adults,0.22222222222222224,-0.05262356
+Philippines,use contraceptives,0.30597014925373134,-0.13669872
+Philippines,get a divorce,-0.42164179104477617,-0.6642834
+Philippines,have an abortion,-0.9116915422885573,-0.6630133
+Philippines,be homosexual,-0.39925373134328357,-0.9677557
+Philippines,drink alcohol,-0.04726368159203981,-0.6854204
+Philippines,have an extramarital affair,-0.8445273631840796,-1.1811669
+Philippines,gamble,-0.4042288557213931,-0.51375043
+Philippines,have sex between unmarried adults,-0.5087064676616916,-0.79560244
+Tunisia,use contraceptives,-0.128,-0.059219934
+Tunisia,get a divorce,-0.31999999999999995,-0.41591758
+Tunisia,have an abortion,-0.742,-0.8265778
+Tunisia,be homosexual,-0.921,-1.2809118
+Tunisia,drink alcohol,-0.8069999999999999,-0.93702257
+Tunisia,have an extramarital affair,-0.877,-1.2880999
+Tunisia,gamble,-0.901,-0.6072958
+Tunisia,have sex between unmarried adults,-0.865,-1.2905067
+China,use contraceptives,0.35926844389336643,0.12573127
+China,get a divorce,0.19931804091754496,-0.18965836
+China,have an abortion,-0.07284562926224425,-0.37969702
+China,be homosexual,-0.47241165530068197,-0.97957957
+China,drink alcohol,-0.2876627402355859,-0.5603161
+China,have an extramarital affair,-0.6599504029758214,-1.0949147
+China,gamble,-0.4621822690638562,-0.36951074
+China,have sex between unmarried adults,-0.453812771233726,-0.6415142
+Pakistan,use contraceptives,-0.47960033305578686,-0.9572603
+Pakistan,get a divorce,-0.6444629475437136,-1.2869308
+Pakistan,have an abortion,-0.835970024979184,-1.5427192
+Pakistan,be homosexual,-0.8642797668609492,-1.827719
+Pakistan,drink alcohol,-0.9283930058284763,-1.4423535
+Pakistan,have an extramarital affair,-0.9150707743547044,-1.7921162
+Pakistan,gamble,-0.9342214820982515,-1.4898695
+Pakistan,have sex between unmarried adults,-0.9383846794338052,-1.9185343
+Ghana,use contraceptives,-0.13016270337922403,-0.6402437
+Ghana,get a divorce,-0.6645807259073843,-1.1171916
+Ghana,have an abortion,-0.8936170212765958,-1.24154
+Ghana,be homosexual,-0.9662077596996246,-1.6184202
+Ghana,drink alcohol,-0.6921151439299124,-1.3232443
+Ghana,have an extramarital affair,-0.7634543178973716,-1.628679
+Ghana,gamble,-0.8710888610763454,-1.1402677
+Ghana,have sex between unmarried adults,-0.7647058823529411,-1.5289505
+South Africa,use contraceptives,0.5288343558282209,-0.058279417
+South Africa,get a divorce,-0.21472392638036808,-0.5647993
+South Africa,have an abortion,-0.4834355828220859,-0.519677
+South Africa,be homosexual,-0.4012269938650307,-0.8539276
+South Africa,drink alcohol,-0.11165644171779143,-0.66117686
+South Africa,have an extramarital affair,-0.5349693251533743,-1.0802311
+South Africa,gamble,-0.19509202453987728,-0.4928484
+South Africa,have sex between unmarried adults,-0.23067484662576687,-0.6214226
+Palestinian territories,use contraceptives,0.2740740740740741,0.6222986
+Palestinian territories,get a divorce,0.04444444444444445,0.412306
+Palestinian territories,have an abortion,-0.46913580246913583,-0.2439663
+Palestinian territories,be homosexual,-0.9308641975308641,-1.1627607
+Palestinian territories,drink alcohol,-0.8814814814814815,-0.90435374
+Palestinian territories,have an extramarital affair,-0.9320987654320988,-1.3308846
+Palestinian territories,gamble,-0.9037037037037037,-0.4318677
+Palestinian territories,have sex between unmarried adults,-0.9271604938271605,-1.3358433
+Israel,use contraceptives,0.17678958785249457,0.20915718
+Israel,get a divorce,-0.0021691973969631406,0.061386872
+Israel,have an abortion,-0.17462039045553146,-0.29354247
+Israel,be homosexual,-0.3785249457700651,-0.916674
+Israel,drink alcohol,-0.15184381778741868,-0.7994951
+Israel,have an extramarital affair,-0.6898047722342734,-1.1017994
+Israel,gamble,-0.46203904555314534,-0.34193438
+Israel,have sex between unmarried adults,-0.2537960954446854,-0.6807569
+Bolivia,use contraceptives,0.39125,-0.044042014
+Bolivia,get a divorce,-0.18874999999999997,-0.52479935
+Bolivia,have an abortion,-0.7699999999999999,-0.4987196
+Bolivia,be homosexual,-0.19874999999999998,-0.75190485
+Bolivia,drink alcohol,-0.5725,-0.5827652
+Bolivia,have an extramarital affair,-0.7825,-1.0376499
+Bolivia,gamble,-0.5075000000000001,-0.32032603
+Bolivia,have sex between unmarried adults,-0.32625,-0.65971184
+Venezuela,use contraceptives,0.7729999999999999,0.2938366
+Venezuela,get a divorce,0.33899999999999997,-0.0892704
+Venezuela,have an abortion,-0.687,-0.12250157
+Venezuela,be homosexual,-0.176,-0.4336687
+Venezuela,drink alcohol,-0.03500000000000003,-0.32103595
+Venezuela,have an extramarital affair,-0.639,-0.7871195
+Venezuela,gamble,-0.39399999999999996,-0.08926716
+Venezuela,have sex between unmarried adults,0.395,-0.18088703
+El Salvador,use contraceptives,0.42045454545454547,-0.16037674
+El Salvador,get a divorce,-0.1755050505050505,-0.7578684
+El Salvador,have an abortion,-0.8345959595959596,-0.7067396
+El Salvador,be homosexual,-0.5353535353535354,-1.0673186
+El Salvador,drink alcohol,-0.7146464646464646,-0.8277868
+El Salvador,have an extramarital affair,-0.8573232323232323,-1.2595346
+El Salvador,gamble,-0.7487373737373737,-0.5926603
+El Salvador,have sex between unmarried adults,-0.3181818181818182,-0.8985958
+universal,use contraceptives,0.0,0.29983178
+universal,get a divorce,0.0,0.28977603
+universal,have an abortion,0.0,-0.21297494
+universal,be homosexual,0.0,-0.4932581
+universal,drink alcohol,0.0,-0.12473736
+universal,have an extramarital affair,0.0,-1.1398548
+universal,gamble,0.0,-0.58189535
+universal,have sex between unmarried adults,0.0,-0.2683111
