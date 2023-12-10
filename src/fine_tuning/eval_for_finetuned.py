@@ -36,7 +36,7 @@ def store_gpt2_model_on_pew(model_name, train_data_name, test_type, use_cuda = T
     tokenizer.pad_token = PAD
 
     model = gpt2_finetuned_model(model_name, test_type, train_data_name, use_cuda)
-    compare_gpt2_pew_token_pairs(model_name=f'gpt2_{test_type}_on_{train_data_name}',
+    compare_gpt2_pew_token_pairs(model_name=f'{model_name}_{test_type}_on_{train_data_name}',
                      excluding_topics=[], model = model, tokenizer = tokenizer, use_cuda=True)
 
 
@@ -48,7 +48,7 @@ def store_gpt2_model_on_wvs(model_name, train_data_name, test_type, use_cuda = T
 
     model = gpt2_finetuned_model(model_name, test_type, train_data_name, use_cuda)
 
-    compare_gpt2_wvs_token_pairs(model_name=f'gpt2_{test_type}_on_{train_data_name}',
+    compare_gpt2_wvs_token_pairs(model_name=f'{model_name}_{test_type}_on_{train_data_name}',
                      excluding_topics=[], model = model, tokenizer = tokenizer, use_cuda = use_cuda)
 
 
@@ -61,7 +61,7 @@ def evaluate_model_on_user_study(model_name, train_data_name, strategy, use_cuda
     model = gpt2_finetuned_model(model_name, strategy, train_data_name, use_cuda)
 
     compare_gpt2_pair_prompts_mort_user_study(style='mv_at_end',
-                                              modelname=f'gpt2_{strategy}_on_{train_data_name}',
+                                              modelname=f'{model_name}_{strategy}_on_{train_data_name}',
                                               model=model, tokenizer = tokenizer, use_cuda=use_cuda)
 
 
@@ -88,9 +88,42 @@ if __name__ == '__main__':
     store_gpt2_model_on_wvs(args.model,args.train,args.strategy,use_cuda) #Evaluating on WVS
     evaluate_model_on_user_study(args.model, args.train, args.strategy) #Evaluting on globalAMT """
 
-    store_gpt2_model_on_pew('gpt2','wvs','topic_based',use_cuda) #Evaluating on PEW
-    store_gpt2_model_on_wvs('gpt2','wvs','topic_based',use_cuda) #Evaluating on WVS
-    evaluate_model_on_user_study('gpt2','wvs','topic_based')
+    #store_gpt2_model_on_pew('gpt2-medium','pew','random',use_cuda) #Evaluating on PEW
+    #store_gpt2_model_on_wvs('gpt2-medium','pew','country_based',use_cuda) #Evaluating on WVS
+
+    evaluate_model_on_user_study('gpt2','wvs','random')
+
+    evaluate_model_on_user_study('gpt2','wvs','topic based')
+
+    evaluate_model_on_user_study('gpt2','wvs','country_based')
+
+
+    
+    evaluate_model_on_user_study('gpt2','pew','random')
+
+    evaluate_model_on_user_study('gpt2','pew','topic based')
+
+    evaluate_model_on_user_study('gpt2','pew','country_based')
+
+    """ store_gpt2_model_on_wvs('gpt2-medium','pew','random',use_cuda) #Evaluating on WVS
+    
+
+    store_gpt2_model_on_pew('gpt2-medium','wvs','country_based',use_cuda) #Evaluating on PEW
+    store_gpt2_model_on_wvs('gpt2-medium','wvs','country_based',use_cuda) #Evaluating on WVS
+    
+
+    store_gpt2_model_on_pew('gpt2-medium','wvs','topic based',use_cuda) #Evaluating on PEW
+    store_gpt2_model_on_wvs('gpt2-medium','wvs','topic based',use_cuda) #Evaluating on WVS
+    evaluate_model_on_user_study('gpt2','wvs','topic based')
+
+    store_gpt2_model_on_pew('gpt2-medium','wvs','random',use_cuda) #Evaluating on PEW
+    store_gpt2_model_on_wvs('gpt2-medium','wvs','random',use_cuda) #Evaluating on WVS
+    evaluate_model_on_user_study('gpt2','wvs','random')
+
+    evaluate_model_on_user_study('gpt2-medium','pew','topic based')
+    evaluate_model_on_user_study('gpt2','wvs','country_based')
+    evaluate_model_on_user_study('gpt2','wvs','topic based')
+    evaluate_model_on_user_study('gpt2','wvs','random') """
 
 
 
