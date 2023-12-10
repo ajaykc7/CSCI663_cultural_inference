@@ -82,48 +82,14 @@ if __name__ == '__main__':
     parser.add_argument('--strategy', type = str,
                         choices= ['country_based','topic based','random'],
                         required=True)
-    #args = parser.parse_args()
+    args = parser.parse_args()
 
     """ store_gpt2_model_on_pew(args.model,args.train,args.strategy,use_cuda) #Evaluating on PEW
     store_gpt2_model_on_wvs(args.model,args.train,args.strategy,use_cuda) #Evaluating on WVS
     evaluate_model_on_user_study(args.model, args.train, args.strategy) #Evaluting on globalAMT """
 
-    #store_gpt2_model_on_pew('gpt2-medium','pew','random',use_cuda) #Evaluating on PEW
-    #store_gpt2_model_on_wvs('gpt2-medium','pew','country_based',use_cuda) #Evaluating on WVS
-
-    evaluate_model_on_user_study('gpt2','wvs','random')
-
-    evaluate_model_on_user_study('gpt2','wvs','topic based')
-
-    evaluate_model_on_user_study('gpt2','wvs','country_based')
-
-
     
-    evaluate_model_on_user_study('gpt2','pew','random')
-
-    evaluate_model_on_user_study('gpt2','pew','topic based')
-
-    evaluate_model_on_user_study('gpt2','pew','country_based')
-
-    """ store_gpt2_model_on_wvs('gpt2-medium','pew','random',use_cuda) #Evaluating on WVS
     
-
-    store_gpt2_model_on_pew('gpt2-medium','wvs','country_based',use_cuda) #Evaluating on PEW
-    store_gpt2_model_on_wvs('gpt2-medium','wvs','country_based',use_cuda) #Evaluating on WVS
-    
-
-    store_gpt2_model_on_pew('gpt2-medium','wvs','topic based',use_cuda) #Evaluating on PEW
-    store_gpt2_model_on_wvs('gpt2-medium','wvs','topic based',use_cuda) #Evaluating on WVS
-    evaluate_model_on_user_study('gpt2','wvs','topic based')
-
-    store_gpt2_model_on_pew('gpt2-medium','wvs','random',use_cuda) #Evaluating on PEW
-    store_gpt2_model_on_wvs('gpt2-medium','wvs','random',use_cuda) #Evaluating on WVS
-    evaluate_model_on_user_study('gpt2','wvs','random')
-
-    evaluate_model_on_user_study('gpt2-medium','pew','topic based')
-    evaluate_model_on_user_study('gpt2','wvs','country_based')
-    evaluate_model_on_user_study('gpt2','wvs','topic based')
-    evaluate_model_on_user_study('gpt2','wvs','random') """
 
 
 
