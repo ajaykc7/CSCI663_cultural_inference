@@ -84,9 +84,9 @@ if __name__ == '__main__':
                         required=True)
     args = parser.parse_args()
 
-    """ store_gpt2_model_on_pew(args.model,args.train,args.strategy,use_cuda) #Evaluating on PEW
+    store_gpt2_model_on_pew(args.model,args.train,args.strategy,use_cuda) #Evaluating on PEW
     store_gpt2_model_on_wvs(args.model,args.train,args.strategy,use_cuda) #Evaluating on WVS
-    evaluate_model_on_user_study(args.model, args.train, args.strategy) #Evaluting on globalAMT """
+    evaluate_model_on_user_study(args.model, args.train, args.strategy) #Evaluting on globalAMT 
 
     
     
